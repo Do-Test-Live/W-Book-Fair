@@ -1,10 +1,27 @@
-<script src="js/jquery.min.js"></script><!-- JQUERY MIN JS -->
-<script src="vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script><!-- BOOTSTRAP MIN JS -->
-<script src="vendor/bootstrap-select/dist/js/bootstrap-select.min.js"></script><!-- BOOTSTRAP SELECT MIN JS -->
-<script src="vendor/counter/waypoints-min.js"></script><!-- WAYPOINTS JS -->
-<script src="vendor/counter/counterup.min.js"></script><!-- COUNTERUP JS -->
-<script src="vendor/swiper/swiper-bundle.min.js"></script><!-- SWIPER JS -->
-<script src="js/dz.carousel.js"></script><!-- DZ CAROUSEL JS -->
-<script src="js/dz.ajax.js"></script><!-- AJAX -->
 <script src='https://vjs.zencdn.net/5.4.6/video.js'></script>
-<script src="js/custom.js"></script><!-- CUSTOM JS -->
+<!-- jquery latest version -->
+<script src="js/vendor/jquery-1.12.4.min.js"></script>
+<!-- bootstrap js -->
+<script src="js/bootstrap.min.js"></script>
+<!-- owl.carousel js -->
+<script src="js/owl.carousel.min.js"></script>
+<!-- meanmenu js -->
+<script src="js/jquery.meanmenu.js"></script>
+<!-- wow js -->
+<script src="js/wow.min.js"></script>
+<!-- jquery.parallax-1.1.3.js -->
+<script src="js/jquery.parallax-1.1.3.js"></script>
+<!-- jquery.countdown.min.js -->
+<script src="js/jquery.countdown.min.js"></script>
+<!-- jquery.flexslider.js -->
+<script src="js/jquery.flexslider.js"></script>
+<!-- chosen.jquery.min.js -->
+<script src="js/chosen.jquery.min.js"></script>
+<!-- jquery.counterup.min.js -->
+<script src="js/jquery.counterup.min.js"></script>
+<!-- waypoints.min.js -->
+<script src="js/waypoints.min.js"></script>
+<!-- plugins js -->
+<script src="js/plugins.js"></script>
+<!-- main js -->
+<script src="js/main.js"></script>

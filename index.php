@@ -1,138 +1,150 @@
-<!DOCTYPE html>
-<html lang="en">
-
+<!doctype html>
+<html class="no-js" lang="en">
 <head>
-    <!-- PAGE TITLE HERE -->
-    <title>Bookland Book Store Ecommerce Website</title>
-    <link rel="stylesheet" type="text/css" href="css/video.css">
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Koparion – Book Shop HTML5 Template</title>
     <?php include('include/css.php'); ?>
 </head>
+
 <body>
+<!-- header-area-start -->
+<?php include('include/header.php'); ?>
+<!-- header-area-end -->
 
-<div class="page-wraper">
-    <?php include('include/preloader.php'); ?>
 
-    <!-- Header -->
-    <?php include('include/header.php'); ?>
-    <!-- Header End -->
-
-    <div class="page-content bg-white">
-
-        <!--Swiper Banner Start -->
-        <div class="main-slider style-1">
-            <div class="main-swiper">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide bg-blue" style="background-image: url(images/background/waveelement.png);">
-                        <div class="container">
-                            <div class="banner-content">
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <div class="swiper-content">
-                                            <div class="content-info">
-                                                <h1 class="title mb-0" data-swiper-parallax="-20">Hong Kong Pavilion</h1>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <div class="banner-media" data-swiper-parallax="-100">
-                                            <img src="images/banner/banner-media.png" alt="banner-media">
-                                        </div>
-                                        <img class="pattern" src="images/Group.png" data-swiper-parallax="-100"
-                                             alt="dots">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+<!-- banner-area-start -->
+<div class="banner-area banner-res-large pt-30 pb-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                <div class="single-banner mb-30">
+                    <div class="banner-img">
+                        <a href="#"><img src="img/banner/1.png" alt="banner"/></a>
                     </div>
-                </div>
-                <div class="container swiper-pagination-wrapper">
-                    <div class="swiper-pagination-five"></div>
-                </div>
-            </div>
-            <div class="swiper main-swiper-thumb">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
+                    <div class="banner-text">
+                        <h4>Free shipping item</h4>
+                        <p>For all orders over $500</p>
                     </div>
                 </div>
             </div>
-        </div>
-        <!--Swiper Banner End-->
-
-        <!-- Client Start-->
-        <div class="bg-white py-5">
-            <div class="container">
-                <!--Client Swiper -->
-                <div class="swiper client-swiper">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide"><img src="images/client/client1.svg" alt="client"></div>
-                        <div class="swiper-slide"><img src="images/client/client2.svg" alt="client"></div>
-                        <div class="swiper-slide"><img src="images/client/client3.svg" alt="client"></div>
-                        <div class="swiper-slide"><img src="images/client/client4.svg" alt="client"></div>
-                        <div class="swiper-slide"><img src="images/client/client5.svg" alt="client"></div>
+            <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                <div class="single-banner mb-30">
+                    <div class="banner-img">
+                        <a href="#"><img src="img/banner/2.png" alt="banner"/></a>
+                    </div>
+                    <div class="banner-text">
+                        <h4>Money back guarantee</h4>
+                        <p>100% money back guarante</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                <div class="single-banner mb-30">
+                    <div class="banner-img">
+                        <a href="#"><img src="img/banner/3.png" alt="banner"/></a>
+                    </div>
+                    <div class="banner-text">
+                        <h4>Cash on delivery</h4>
+                        <p>Lorem ipsum dolor consecte</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                <div class="single-banner mb-30">
+                    <div class="banner-img">
+                        <a href="#"><img src="img/banner/4.png" alt="banner"/></a>
+                    </div>
+                    <div class="banner-text">
+                        <h4>Help & Support</h4>
+                        <p>Call us : + 0123.4567.89</p>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- Client End-->
-
-        <!--Recommend Section Start-->
-        <section class="content-inner-1 bg-grey reccomend" style="height: 500px;">
-            <div class="container">
-                <!-- Swiper -->
-                <div class="row">
-                    <div class="col-12">
-                        <video id="my-video" class="video-js" controls preload="auto" poster="images/video_bg.png" data-setup='' loop>
-                            <source src="https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-1080p.mp4" type='video/mp4'>
-                        </video>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- Newsletter -->
-        <section class="py-5 newsletter-wrapper"
-                 style="background-image: url('images/background/bg1.jpg'); background-size: cover;">
-            <div class="container">
-                <div class="subscride-inner">
-                    <div class="row style-1 justify-content-xl-between justify-content-lg-center align-items-center text-xl-start text-center">
-                        <div class="col-xl-7 col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
-                            <div class="section-head mb-0">
-                                <h2 class="title text-white my-lg-3 mt-0">Subscribe our newsletter for newest books
-                                    updates</h2>
-                            </div>
-                        </div>
-                        <div class="col-xl-5 col-lg-6 wow fadeInUp" data-wow-delay="0.2s">
-                            <form class="dzSubscribe style-1"
-                                  action="https://bookland.dexignzone.com/xhtml/script/mailchamp.php" method="post">
-                                <div class="dzSubscribeMsg"></div>
-                                <div class="form-group">
-                                    <div class="input-group mb-0">
-                                        <input name="dzEmail" required="required" type="email"
-                                               class="form-control bg-transparent text-white"
-                                               placeholder="Your Email Address">
-                                        <div class="input-group-addon">
-                                            <button name="submit" value="Submit" type="submit"
-                                                    class="btn btn-primary btnhover">
-                                                <span>SUBSCRIBE</span>
-                                                <i class="fa-solid fa-paper-plane"></i>
-                                            </button>
-                                        </div>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Newsletter End -->
-
     </div>
-
-    <?php include('include/footer.php'); ?>
 </div>
-<!-- JAVASCRIPT FILES ========================================= -->
+<!-- banner-area-end -->
+
+
+<!-- slider-area-start -->
+<div class="slider-area">
+    <div class="slider-active owl-carousel">
+        <div class="single-slider pt-125 pb-130 bg-img" style="background-image:url(img/slider/1.jpg);">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-5">
+                        <div class="slider-content slider-animated-1 text-center">
+                            <h1>Huge Sale</h1>
+                            <h2>koparion</h2>
+                            <h3>Now starting at £99.00</h3>
+                            <a href="#">Shop now</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="single-slider slider-h1-2 pt-215 pb-100 bg-img" style="background-image:url(img/slider/2.jpg);">
+            <div class="container">
+                <div class="slider-content slider-content-2 slider-animated-1">
+                    <h1>We can help get your</h1>
+                    <h2>Books in Order</h2>
+                    <h3>and Accessories</h3>
+                    <a href="#">Contact Us Today!</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- slider-area-end -->
+
+
+<!-- banner-area-start -->
+<div class="banner-area-5 mtb-95">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="banner-img-2">
+                    <a href="#"><img src="img/banner/5.jpg" alt="banner"/></a>
+                    <div class="banner-text">
+                        <h3>G. Meyer Books & Spiritual Traveler Press</h3>
+                        <h2>Sale up to 30% off</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- banner-area-end -->
+
+
+<!-- bestseller-area-start -->
+<div class="bestseller-area pb-100">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                <video width="100%" controls>
+                    <source src="https://player.vimeo.com/external/194837908.sd.mp4?s=c350076905b78c67f74d7ee39fdb4fef01d12420&profile_id=164" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+
+            </div>
+        </div>
+    </div>
+</div>
+<!-- bestseller-area-end -->
+
+
+
+
+<!-- footer-area-start -->
+<?php include('include/footer.php'); ?>
+<!-- footer-area-end -->
+
+
+<!-- all js here -->
 <?php include('include/js.php'); ?>
+
 </body>
 
 </html>
