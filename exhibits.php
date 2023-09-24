@@ -51,7 +51,140 @@ $page = 'exhibits';
                                         </div>
                                     </div>
                                     <div class="product-details text-center">
-                                        <h4><a href="exhibits_details.php">Joust Duffle Bag</a></h4>
+                                        <h4><a href="exhibits_details.php">Exhibit Name</a></h4>
+                                    </div>
+                                </div>
+                                <!-- single-product-end -->
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
+                                <!-- single-product-start -->
+                                <div class="product-wrapper mb-40">
+                                    <div class="product-img">
+                                        <a href="exhibits_details.php">
+                                            <img src="img/product/1.jpg" alt="book" class="primary" />
+                                        </a>
+                                        <div class="quick-view">
+                                            <a class="action-view" href="exhibits_details.php" title="Details">
+                                                <i class="fa fa-search-plus"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-details text-center">
+                                        <h4><a href="exhibits_details.php">Exhibit Name</a></h4>
+                                    </div>
+                                </div>
+                                <!-- single-product-end -->
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
+                                <!-- single-product-start -->
+                                <div class="product-wrapper mb-40">
+                                    <div class="product-img">
+                                        <a href="exhibits_details.php">
+                                            <img src="img/product/1.jpg" alt="book" class="primary" />
+                                        </a>
+                                        <div class="quick-view">
+                                            <a class="action-view" href="exhibits_details.php" title="Details">
+                                                <i class="fa fa-search-plus"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-details text-center">
+                                        <h4><a href="exhibits_details.php">Exhibit Name</a></h4>
+                                    </div>
+                                </div>
+                                <!-- single-product-end -->
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
+                                <!-- single-product-start -->
+                                <div class="product-wrapper mb-40">
+                                    <div class="product-img">
+                                        <a href="exhibits_details.php">
+                                            <img src="img/product/1.jpg" alt="book" class="primary" />
+                                        </a>
+                                        <div class="quick-view">
+                                            <a class="action-view" href="exhibits_details.php" title="Details">
+                                                <i class="fa fa-search-plus"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-details text-center">
+                                        <h4><a href="exhibits_details.php">Exhibit Name</a></h4>
+                                    </div>
+                                </div>
+                                <!-- single-product-end -->
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
+                                <!-- single-product-start -->
+                                <div class="product-wrapper mb-40">
+                                    <div class="product-img">
+                                        <a href="exhibits_details.php">
+                                            <img src="img/product/1.jpg" alt="book" class="primary" />
+                                        </a>
+                                        <div class="quick-view">
+                                            <a class="action-view" href="exhibits_details.php" title="Details">
+                                                <i class="fa fa-search-plus"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-details text-center">
+                                        <h4><a href="exhibits_details.php">Exhibit Name</a></h4>
+                                    </div>
+                                </div>
+                                <!-- single-product-end -->
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
+                                <!-- single-product-start -->
+                                <div class="product-wrapper mb-40">
+                                    <div class="product-img">
+                                        <a href="exhibits_details.php">
+                                            <img src="img/product/1.jpg" alt="book" class="primary" />
+                                        </a>
+                                        <div class="quick-view">
+                                            <a class="action-view" href="exhibits_details.php" title="Details">
+                                                <i class="fa fa-search-plus"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-details text-center">
+                                        <h4><a href="exhibits_details.php">Exhibit Name</a></h4>
+                                    </div>
+                                </div>
+                                <!-- single-product-end -->
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
+                                <!-- single-product-start -->
+                                <div class="product-wrapper mb-40">
+                                    <div class="product-img">
+                                        <a href="exhibits_details.php">
+                                            <img src="img/product/1.jpg" alt="book" class="primary" />
+                                        </a>
+                                        <div class="quick-view">
+                                            <a class="action-view" href="exhibits_details.php" title="Details">
+                                                <i class="fa fa-search-plus"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-details text-center">
+                                        <h4><a href="exhibits_details.php">Exhibit Name</a></h4>
+                                    </div>
+                                </div>
+                                <!-- single-product-end -->
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
+                                <!-- single-product-start -->
+                                <div class="product-wrapper mb-40">
+                                    <div class="product-img">
+                                        <a href="exhibits_details.php">
+                                            <img src="img/product/1.jpg" alt="book" class="primary" />
+                                        </a>
+                                        <div class="quick-view">
+                                            <a class="action-view" href="exhibits_details.php" title="Details">
+                                                <i class="fa fa-search-plus"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="product-details text-center">
+                                        <h4><a href="exhibits_details.php">Exhibit Name</a></h4>
                                     </div>
                                 </div>
                                 <!-- single-product-end -->

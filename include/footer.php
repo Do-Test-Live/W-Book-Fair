@@ -16,6 +16,8 @@
                                         <li><a href="index.php">Home</a></li>
                                         <li><a href="zone.php">Zone</a></li>
                                         <li><a href="exhibits.php">Exhibits</a></li>
+                                        <li><a href="documents/exhibits.pdf" target="_blank">Exhibitors Directory</a></li>
+                                        <li><a href="sponsor.php">Organistra & Sponsor</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -23,12 +25,12 @@
                         <div class="col-lg-6 col-md-12 col-12">
                             <div class="single-footer br-2 xs-mb">
                                 <div class="footer-title mb-20">
-                                    <h3>Our Menu</h3>
+                                    <h3>Quick Links</h3>
                                 </div>
                                 <div class="footer-mid-menu">
                                     <ul>
-                                        <li><a href="documents/exhibits.pdf" target="_blank">Exhibitors Directory</a></li>
-                                        <li><a href="sponsor.php">Organistra & Sponsor</a></li>
+                                        <li><a href="login.php">Sign In</a></li>
+                                        <li><a href="sign_up.php">Sign Up</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -42,7 +44,7 @@
                         </div>
                         <div class="footer-contact">
                             <p class="adress">
-                                <span>My Company</span>
+                                <span>Hong Kong Pavilion</span>
                                 Your address goes here.
                             </p>
                             <p><span>Call us now:</span> 0123456789</p>

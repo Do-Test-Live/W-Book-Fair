@@ -56,8 +56,7 @@
                 <div class="col-lg-3 col-md-3 col-12">
                     <div class="my-cart">
                         <ul>
-                            <li><a href="#"><i class="fa fa-shopping-cart"></i></a>
-                                <span>2</span>
+                            <li><a href="#"><i class="fa fa-comments"></i></a>
                             </li>
                         </ul>
                     </div>

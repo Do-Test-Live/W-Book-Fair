@@ -27,13 +27,15 @@ $page = 'sponsor';
         <div class="col-6">
             <img src="img/1b.png" class="img-fluid">
         </div>
-        <div class="col-12 mt-3">
+        <div class="col-12 toolbar"></div>
+        <div class="col-12 mt-5">
             <h2>Sponsor</h2>
         </div>
         <div class="col-6">
             <img src="img/1c.png" class="img-fluid">
         </div>
-        <div class="col-12 mt-3">
+        <div class="col-12 toolbar"></div>
+        <div class="col-12 mt-5">
             <h2>Supporting Organization</h2>
         </div>
         <div class="col-6">

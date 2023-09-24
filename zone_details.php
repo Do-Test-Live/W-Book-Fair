@@ -110,17 +110,17 @@ $page = 'zone';
                                 <div class="owl-item active" style="width: 206.75px;">
                                     <div class="product-wrapper">
                                         <div class="product-img">
-                                            <a href="#">
+                                            <a href="exhibits_details.php">
                                                 <img src="img/product/1.jpg" alt="book" class="primary">
                                             </a>
                                             <div class="quick-view">
-                                                <a class="action-view" href="#" title="Details">
+                                                <a class="action-view" href="exhibits_details.php" title="Details">
                                                     <i class="fa fa-search-plus"></i>
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="product-details text-center">
-                                            <h4><a href="#">Company Exhibit Name</a></h4>
+                                            <h4><a href="exhibits_details.php">Company Exhibit Name</a></h4>
                                         </div>
                                     </div>
                                 </div>
