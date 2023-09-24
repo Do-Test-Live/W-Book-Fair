@@ -1,4 +1,4 @@
-<footer style="z-index: 999">
+<footer>
 
     <!-- footer-mid-start -->
     <div class="footer-mid ptb-50">
@@ -6,47 +6,29 @@
             <div class="row">
                 <div class="col-lg-8 col-md-12">
                     <div class="row">
-                        <div class="col-lg-4 col-md-4 col-12">
+                        <div class="col-lg-6 col-md-12 col-12">
                             <div class="single-footer br-2 xs-mb">
                                 <div class="footer-title mb-20">
-                                    <h3>Products</h3>
+                                    <h3>Our Menu</h3>
                                 </div>
                                 <div class="footer-mid-menu">
                                     <ul>
-                                        <li><a href="about.html">About us</a></li>
-                                        <li><a href="#">Prices drop </a></li>
-                                        <li><a href="#">New products</a></li>
-                                        <li><a href="#">Best sales</a></li>
+                                        <li><a href="index.php">Home</a></li>
+                                        <li><a href="zone.php">Zone</a></li>
+                                        <li><a href="exhibits.php">Exhibits</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-4 col-12">
+                        <div class="col-lg-6 col-md-12 col-12">
                             <div class="single-footer br-2 xs-mb">
                                 <div class="footer-title mb-20">
-                                    <h3>Our company</h3>
+                                    <h3>Our Menu</h3>
                                 </div>
                                 <div class="footer-mid-menu">
                                     <ul>
-                                        <li><a href="contact.html">Contact us</a></li>
-                                        <li><a href="#">Sitemap</a></li>
-                                        <li><a href="#">Stores</a></li>
-                                        <li><a href="register.html">My account </a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-4 col-12">
-                            <div class="single-footer br-2 xs-mb">
-                                <div class="footer-title mb-20">
-                                    <h3>Your account</h3>
-                                </div>
-                                <div class="footer-mid-menu">
-                                    <ul>
-                                        <li><a href="contact.html">Addresses</a></li>
-                                        <li><a href="#">Credit slips </a></li>
-                                        <li><a href="#"> Orders</a></li>
-                                        <li><a href="#">Personal info</a></li>
+                                        <li><a href="documents/exhibits.pdf" target="_blank">Exhibitors Directory</a></li>
+                                        <li><a href="sponsor.php">Organistra & Sponsor</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -78,7 +60,7 @@
             <div class="row bt-2">
                 <div class="col-lg-6 col-md-6 col-12">
                     <div class="copy-right-area">
-                        <p>&copy; 2022 <strong> Koparion </strong> Mede with ❤️ by <a href="https://hasthemes.com/" target="_blank"><strong>HasThemes</strong></a></p>
+                        <p>&copy; 2023 <strong> Hong Kong Pavilion </strong> Made with ❤️ by <a href="https://ngt-tech.io/" target="_blank"><strong>NGTTech</strong></a></p>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-12">

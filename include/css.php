@@ -19,7 +19,6 @@
 <link rel="stylesheet" href="css/flexslider.css">
 <!-- chosen.min.css-->
 <link rel="stylesheet" href="css/chosen.min.css">
-<link rel="stylesheet" href="css/video.css">
 
 <!-- style css -->
 <link rel="stylesheet" href="style.css">

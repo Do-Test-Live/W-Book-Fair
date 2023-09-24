@@ -4734,6 +4734,8 @@ nav.menu .cr-dropdown ul {
 
 .product-info-area .valu li {
     color: #333;
+    font-size: 16px;
+    font-weight: bold;
 }
 
 .product-info-area .valu li i {

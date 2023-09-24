@@ -1,9 +1,13 @@
+<?php
+$page = 'home';
+?>
+
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Koparion – Book Shop HTML5 Template</title>
+    <title>Home - Hong Kong Pavilion</title>
     <?php include('include/css.php'); ?>
 </head>
 
@@ -11,60 +15,6 @@
 <!-- header-area-start -->
 <?php include('include/header.php'); ?>
 <!-- header-area-end -->
-
-
-<!-- banner-area-start -->
-<div class="banner-area banner-res-large pt-30 pb-5">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-3 col-md-6 col-sm-6 col-12">
-                <div class="single-banner mb-30">
-                    <div class="banner-img">
-                        <a href="#"><img src="img/banner/1.png" alt="banner"/></a>
-                    </div>
-                    <div class="banner-text">
-                        <h4>Free shipping item</h4>
-                        <p>For all orders over $500</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 col-12">
-                <div class="single-banner mb-30">
-                    <div class="banner-img">
-                        <a href="#"><img src="img/banner/2.png" alt="banner"/></a>
-                    </div>
-                    <div class="banner-text">
-                        <h4>Money back guarantee</h4>
-                        <p>100% money back guarante</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 col-12">
-                <div class="single-banner mb-30">
-                    <div class="banner-img">
-                        <a href="#"><img src="img/banner/3.png" alt="banner"/></a>
-                    </div>
-                    <div class="banner-text">
-                        <h4>Cash on delivery</h4>
-                        <p>Lorem ipsum dolor consecte</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 col-12">
-                <div class="single-banner mb-30">
-                    <div class="banner-img">
-                        <a href="#"><img src="img/banner/4.png" alt="banner"/></a>
-                    </div>
-                    <div class="banner-text">
-                        <h4>Help & Support</h4>
-                        <p>Call us : + 0123.4567.89</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- banner-area-end -->
 
 
 <!-- slider-area-start -->
@@ -75,9 +25,8 @@
                 <div class="row">
                     <div class="col-lg-5">
                         <div class="slider-content slider-animated-1 text-center">
-                            <h1>Huge Sale</h1>
-                            <h2>koparion</h2>
-                            <h3>Now starting at £99.00</h3>
+                            <h1>Hong Kong</h1>
+                            <h2>Pavilion</h2>
                             <a href="#">Shop now</a>
                         </div>
                     </div>
@@ -87,9 +36,8 @@
         <div class="single-slider slider-h1-2 pt-215 pb-100 bg-img" style="background-image:url(img/slider/2.jpg);">
             <div class="container">
                 <div class="slider-content slider-content-2 slider-animated-1">
-                    <h1>We can help get your</h1>
-                    <h2>Books in Order</h2>
-                    <h3>and Accessories</h3>
+                    <h1>Hong Kong</h1>
+                    <h2>Pavilion</h2>
                     <a href="#">Contact Us Today!</a>
                 </div>
             </div>

@@ -1,4 +1,3 @@
-<script src='https://vjs.zencdn.net/5.4.6/video.js'></script>
 <!-- jquery latest version -->
 <script src="js/vendor/jquery-1.12.4.min.js"></script>
 <!-- bootstrap js -->
