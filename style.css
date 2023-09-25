@@ -53,6 +53,10 @@
 
 /* google-font */
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800|Rufina:400,700');
+@font-face {
+    font-family: OPTITimes-Roman;
+    src: url("fonts/OPTITimes-Roman.otf");
+}
 
 html,
 body {
@@ -109,7 +113,7 @@ h4,
 h5,
 h6 {
     margin: 0 0 10px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: "OPTITimes-Roman", sans-serif;
     color: #333;
     font-weight: 700;
 }
@@ -151,7 +155,7 @@ ul {
 }
 
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: "OPTITimes-Roman", sans-serif;
     font-size: 14px;
     font-weight: 400;
     color: #666;
@@ -486,7 +490,7 @@ body {
     font-size: 13px;
     text-decoration: none;
     text-transform: capitalize;
-    font-family: 'Open Sans', sans-serif;
+    font-family: "OPTITimes-Roman", sans-serif;
     transition: .3s;
 }
 
@@ -751,7 +755,7 @@ body {
 
 .header-mid-area .my-cart ul>li .cart-product .single-cart .cart-info h5 a {
     color: #666;
-    font-family: Rufina;
+    font-family: "OPTITimes-Roman", sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 17px;
@@ -766,7 +770,7 @@ body {
 
 .cart-product .single-cart .cart-info p {
     margin-bottom: 0;
-    font-family: Rufina;
+    font-family: "OPTITimes-Roman", sans-serif;
     font-size: 15px;
 }
 
@@ -779,7 +783,7 @@ body {
     display: block;
     font-size: 15px;
     font-weight: 400;
-    font-family: Rufina;
+    font-family: "OPTITimes-Roman", sans-serif;
     margin: 0;
     text-transform: uppercase;
 }
@@ -818,7 +822,7 @@ body {
     text-transform: uppercase;
     width: 100%;
     transition: .3s;
-    font-family: Rufina;
+    font-family: "OPTITimes-Roman", sans-serif;
 }
 
 .home-3 .header-mid-area .my-cart ul>li .mini-cart-sub .cart-bottom a,
@@ -841,7 +845,7 @@ body {
 /*----------------------------------------*/
 
 .main-menu-area {
-    background: #000000 none repeat scroll 0 0;
+    background: #e3e3e3 none repeat scroll 0 0;
 }
 
 .main-menu-area.sticky {
@@ -866,9 +870,9 @@ body {
 .menu-area ul li>a,
 .safe-area a {
     background: transparent none repeat scroll 0 0;
-    color: #fff;
+    color: #000000;
     display: block;
-    font-size: 16px;
+    font-size: 12px;
     font-weight: 700;
     line-height: 25px;
     padding: 13px 20px;
@@ -1107,7 +1111,7 @@ body {
 
 .single-banner .banner-text h4 {
     color: #222;
-    font-family: "Rufina", serif;
+    font-family: "OPTITimes-Roman", sans-serif;
     font-size: 16px;
     font-weight: 700;
     margin-bottom: 2px;
@@ -1210,7 +1214,7 @@ body {
     font-weight: 700;
     line-height: 1;
     text-transform: capitalize;
-    font-family: 'Rufina', serif;
+    font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -1221,7 +1225,7 @@ body {
     line-height: 1;
     margin-bottom: 25px;
     text-transform: capitalize;
-    font-family: 'Rufina', serif;
+    font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -1231,7 +1235,7 @@ body {
     font-weight: 400;
     line-height: 1;
     text-transform: none;
-    font-family: 'Rufina', serif;
+    font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -1247,7 +1251,7 @@ body {
     margin-top: 43px;
     padding: 10px 38px;
     text-transform: none;
-    font-family: 'Rufina', serif;
+    font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
     text-decoration: none;
     box-shadow: 2px 2px 2px 2px #a8c0ba;
@@ -1424,7 +1428,7 @@ body {
     letter-spacing: 1px;
     line-height: 24px;
     margin-bottom: 0;
-    font-family: 'Rufina', serif;
+    font-family: "OPTITimes-Roman", sans-serif;
     color: #333;
 }
 
@@ -1558,7 +1562,7 @@ body {
     padding: 0;
     text-transform: capitalize;
     transition: .3s;
-    font-family: 'Rufina', serif;
+    font-family: "OPTITimes-Roman", sans-serif;
 }
 
 .product-details h4 a:hover,
@@ -1572,14 +1576,14 @@ body {
     color: #f07c29;
     font-size: 20px;
     font-weight: 600;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-style: italic;
 }
 
 .product-price ul li span {
     color: #666;
     padding-right: 5px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
     font-size: 16px;
 }
@@ -1656,7 +1660,7 @@ body {
     font-weight: 700;
     line-height: 30px;
     text-transform: capitalize;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
     transition: .3s;
 }
@@ -1887,7 +1891,7 @@ body {
     font-weight: 700;
     line-height: 1.1;
     text-align: right;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -1910,7 +1914,7 @@ body {
     line-height: 24px;
     margin-top: 35px;
     text-align: right;
-    font-family: "Rufina", serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     color: #333;
 }
 
@@ -1950,7 +1954,7 @@ body {
 }
 
 .single-bestseller .bestseller-text h3 {
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
     margin-bottom: 0;
 }
@@ -1979,7 +1983,7 @@ body {
 
 .single-bestseller .bestseller-text .price ul li span {
     font-size: 15px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     transition: .3s;
     font-weight: 600;
     font-style: italic;
@@ -2109,7 +2113,7 @@ body {
     font-weight: 700;
     line-height: 1.3;
     text-transform: capitalize;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
     text-decoration: none;
     transition: .3s;
@@ -2170,7 +2174,7 @@ body {
     color: #fff;
     font-size: 16px;
     line-height: 24px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -2241,7 +2245,7 @@ body {
 
 .testimonial-text p {
     color: #fff;
-    font-family: "Rufina", serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-size: 20px;
     font-weight: 400;
     line-height: 24px;
@@ -2322,7 +2326,7 @@ body {
 .post-content h3 a {
     color: #333;
     display: block;
-    font-family: "Rufina", serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-size: 22px;
     font-weight: 400;
     line-height: 24px;
@@ -2335,7 +2339,7 @@ body {
 
 .post-content p {
     border-bottom: 1px solid #e5e5e5;
-    font-family: "Rufina", serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-size: 14px;
     font-weight: 400;
     line-height: 24px;
@@ -2427,7 +2431,7 @@ body {
 
 .twitter-text p {
     color: #333;
-    font-family: "Rufina", serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-size: 16px;
     line-height: 21px;
     margin: 0;
@@ -2436,7 +2440,7 @@ body {
 
 .twitter-text a {
     color: #f07c29;
-    font-family: "Rufina", serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-size: 16px;
     font-style: italic;
     padding-top: 3px;
@@ -2551,7 +2555,7 @@ footer {
     text-decoration: none;
     transition: all 0.5s ease 0s;
     line-height: 30px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -2565,7 +2569,7 @@ footer {
 
 .footer-contact p {
     color: #fff;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -2595,7 +2599,7 @@ footer {
     color: #fff;
     margin-bottom: 0;
     margin-top: 8px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -2747,7 +2751,7 @@ a#scrollUp:hover {
     top: 0;
     width: 214px;
     color: #a9a9a9;
-    font-family: "Rufina", serif;
+   font-family: "OPTITimes-Roman", sans-serif;
 }
 
 .pos-search .bootstrap-select {
@@ -2784,7 +2788,7 @@ a#scrollUp:hover {
     padding-left: 233px;
     padding-right: 55px;
     width: 100%;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -2983,7 +2987,7 @@ a#scrollUp:hover {
     line-height: 60px;
     text-transform: capitalize;
     margin: 0;
-    font-family: "Rufina", serif;
+   font-family: "OPTITimes-Roman", sans-serif;
 }
 
 .slider-content-3 p {
@@ -2998,7 +3002,7 @@ a#scrollUp:hover {
     margin-right: 10px;
     padding: 5px;
     vertical-align: top;
-    font-family: "Rufina", serif;
+   font-family: "OPTITimes-Roman", sans-serif;
 }
 
 .slider-content-3 p span.sale2 {
@@ -3065,7 +3069,7 @@ a#scrollUp:hover {
     line-height: 1.15;
     text-transform: capitalize;
     text-decoration: none;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     transition: .3s;
 }
 
@@ -3107,7 +3111,7 @@ a#scrollUp:hover {
     font-size: 18px;
     font-weight: 400;
     text-decoration: line-through;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -3431,7 +3435,7 @@ a#scrollUp:hover {
     font-weight: 700;
     line-height: 1;
     text-transform: none;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
     margin: 0 0 10px;
 }
@@ -3442,7 +3446,7 @@ a#scrollUp:hover {
     line-height: 1;
     margin-bottom: 20px;
     text-transform: none;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 700;
 }
 
@@ -3458,7 +3462,7 @@ a#scrollUp:hover {
     padding: 10px 23px;
     text-transform: uppercase;
     text-decoration: none;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -3510,7 +3514,7 @@ a#scrollUp:hover {
     color: #222;
     font-size: 16px;
     font-weight: 700;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
     margin-bottom: 0;
     transition: .3s;
@@ -3524,7 +3528,7 @@ a#scrollUp:hover {
 .single-banner-2 .single-text-2 p {
     color: #333;
     font-size: 14px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
     margin-bottom: 0;
     transition: .3s;
@@ -4141,7 +4145,7 @@ nav.menu .cr-dropdown ul {
     line-height: 30px;
     padding: 10px;
     width: 370px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -4253,7 +4257,7 @@ nav.menu .cr-dropdown ul {
     font-size: 14px;
     color: #333;
     text-decoration: none;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -4327,7 +4331,7 @@ nav.menu .cr-dropdown ul {
     position: relative;
     text-transform: capitalize;
     text-decoration: none;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -4406,7 +4410,7 @@ nav.menu .cr-dropdown ul {
     font-weight: 900;
     line-height: 24px;
     text-transform: uppercase;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -4511,7 +4515,7 @@ nav.menu .cr-dropdown ul {
     font-size: 16px;
     font-weight: 400;
     line-height: 35px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -4523,7 +4527,7 @@ nav.menu .cr-dropdown ul {
     height: 35px;
     min-width: 95px;
     padding: 0 5px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
     color: #333;
 }
@@ -4550,7 +4554,7 @@ nav.menu .cr-dropdown ul {
     margin-right: 0;
     min-width: 95px;
     padding: 0 5px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -4559,7 +4563,7 @@ nav.menu .cr-dropdown ul {
     font-size: 16px;
     font-weight: 400;
     line-height: 35px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -4713,7 +4717,6 @@ nav.menu .cr-dropdown ul {
 }
 
 .product-info-area .tab-content {
-    border: 1px solid #d1d1d1;
     padding: 20px;
 }
 
@@ -4724,7 +4727,7 @@ nav.menu .cr-dropdown ul {
 }
 
 .product-info-area .valu>ul {
-    padding-left: 26px;
+    padding-left:0px;
 }
 
 .product-info-area .valu li .review-title h3 {
@@ -4977,7 +4980,7 @@ nav.menu .cr-dropdown ul {
     margin: 15px 0 9px;
     padding: 0;
     text-transform: capitalize;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -4987,7 +4990,7 @@ nav.menu .cr-dropdown ul {
     font-weight: 400;
     margin-right: 15px;
     text-transform: capitalize;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
     float: left;
     display: inline-block;
@@ -5002,7 +5005,7 @@ nav.menu .cr-dropdown ul {
 }
 
 .product-attribute span.value {
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -5048,7 +5051,7 @@ nav.menu .cr-dropdown ul {
     color: #f07c29;
     font-size: 25px;
     font-weight: 400;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -5151,7 +5154,7 @@ nav.menu .cr-dropdown ul {
     text-decoration: underline;
     text-decoration: none;
     transition: .3s;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -5170,7 +5173,7 @@ nav.menu .cr-dropdown ul {
 .blog-comment-readmore .blog-com a {
     color: #333;
     text-decoration: none;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -5227,7 +5230,7 @@ nav.menu .cr-dropdown ul {
     font-size: 16px;
     text-transform: uppercase;
     font-weight: 500;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -5251,7 +5254,7 @@ nav.menu .cr-dropdown ul {
     height: 40px;
     padding-left: 10px;
     width: 100%;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
     padding-right: 40px;
 }
@@ -5271,7 +5274,7 @@ nav.menu .cr-dropdown ul {
     text-decoration: none;
     font-size: 15px;
     transition: .3s;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -5376,14 +5379,14 @@ nav.menu .cr-dropdown ul {
 
 .author-destils .author-left .author-description p {
     margin: 0;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     color: #333;
     font-weight: 400;
 }
 
 .author-destils .author-left .author-description p a {
     color: #333;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -5442,7 +5445,7 @@ nav.menu .cr-dropdown ul {
     font-weight: 500;
     transition: .3s;
     text-decoration: none;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -5452,7 +5455,7 @@ nav.menu .cr-dropdown ul {
 
 .single-blog-content .blog-single-content p {
     font-size: 16px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
     color: #333;
 }
@@ -5689,7 +5692,7 @@ nav.menu .cr-dropdown ul {
     margin-bottom: 15px;
     padding-bottom: 10px;
     text-transform: capitalize;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -5698,7 +5701,7 @@ nav.menu .cr-dropdown ul {
     font-weight: 400;
     margin: 0;
     line-height: 1.6em;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
     color: #333;
 }
@@ -5722,7 +5725,7 @@ nav.menu .cr-dropdown ul {
     font-weight: 400;
     margin-top: 7px;
     display: block;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -5731,7 +5734,7 @@ nav.menu .cr-dropdown ul {
     border: 1px solid #eceff8;
     padding: 12px 10px;
     width: 100%;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -5745,7 +5748,7 @@ nav.menu .cr-dropdown ul {
     text-decoration: none;
     float: left;
     transition: .3s;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -5764,7 +5767,7 @@ nav.menu .cr-dropdown ul {
 .single-login-2 span {
     float: left;
     margin-top: 10px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
     color: #333;
 }
@@ -5798,7 +5801,7 @@ nav.menu .cr-dropdown ul {
     font-size: 16px;
     font-weight: 400;
     margin-top: 7px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -5811,7 +5814,7 @@ nav.menu .cr-dropdown ul {
     height: 45px;
     padding-left: 10px;
     width: 100%;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -5825,7 +5828,7 @@ nav.menu .cr-dropdown ul {
     padding-left: 10px;
     box-shadow: none;
     text-align: left;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -5842,7 +5845,7 @@ nav.menu .cr-dropdown ul {
     margin-top: 0;
     padding-left: 10px;
     font-size: 13px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -5850,7 +5853,7 @@ nav.menu .cr-dropdown ul {
     color: #F07C29;
     font-size: 14px;
     text-decoration: none;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -5865,7 +5868,7 @@ nav.menu .cr-dropdown ul {
     padding: 12px 48px;
     text-decoration: none;
     transition: .3s;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -5924,7 +5927,7 @@ nav.menu .cr-dropdown ul {
 
 .contact-info ul li span {
     font-weight: 700;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     color: #333;
 }
 
@@ -5932,7 +5935,7 @@ nav.menu .cr-dropdown ul {
     color: #333;
     text-decoration: none;
     transition: .3s;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -5953,7 +5956,7 @@ nav.menu .cr-dropdown ul {
     padding: 12px 10px;
     width: 100%;
     color: #333;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -5989,7 +5992,7 @@ nav.menu .cr-dropdown ul {
     text-transform: uppercase;
     transition: all 0.3s ease 0s;
     width: 140px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6029,7 +6032,7 @@ nav.menu .cr-dropdown ul {
     font-weight: 700;
     line-height: 21px;
     margin-bottom: 20px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6037,7 +6040,7 @@ nav.menu .cr-dropdown ul {
 .single-misson h3 span {
     font-weight: 500;
     padding-left: 10px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6046,7 +6049,7 @@ nav.menu .cr-dropdown ul {
     color: #4a4d4f;
     font-size: 15px;
     line-height: 25px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6059,7 +6062,7 @@ nav.menu .cr-dropdown ul {
     color: #444;
     text-decoration: none;
     transition: .3s;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6081,14 +6084,14 @@ nav.menu .cr-dropdown ul {
     font-size: 40px;
     color: #444;
     font-weight: 600;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
 .single-counter span {
     font-size: 15px;
     text-transform: uppercase;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6101,7 +6104,7 @@ nav.menu .cr-dropdown ul {
 
 .team-title h2 span {
     font-weight: 700;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6113,14 +6116,14 @@ nav.menu .cr-dropdown ul {
     font-size: 20px;
     margin: 0;
     font-weight: 500;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
 .team-content span {
     color: #666;
     display: block;
-    font-family: "Rufina", serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-size: 15px;
     font-weight: 400;
     margin: 3px 0 0;
@@ -6184,7 +6187,7 @@ nav.menu .cr-dropdown ul {
     color: #fff;
     font-size: 20px;
     transition: all 0.3s ease 0s;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6197,7 +6200,7 @@ nav.menu .cr-dropdown ul {
     font-size: 28px;
     font-weight: 500;
     margin-bottom: 30px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6211,7 +6214,7 @@ nav.menu .cr-dropdown ul {
     font-size: 16px;
     letter-spacing: 1px;
     line-height: 25px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6222,7 +6225,7 @@ nav.menu .cr-dropdown ul {
     display: inline-block;
     text-decoration: none;
     transition: .3s;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6254,7 +6257,7 @@ nav.menu .cr-dropdown ul {
     position: absolute;
     text-transform: uppercase;
     top: -28px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6276,7 +6279,7 @@ nav.menu .cr-dropdown ul {
 .entry-header-title h2 {
     font-weight: 400;
     color: #333;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6288,7 +6291,7 @@ nav.menu .cr-dropdown ul {
     font-size: 20px;
     margin: 0;
     text-transform: uppercase;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6329,7 +6332,7 @@ nav.menu .cr-dropdown ul {
     font-size: 13px;
     padding: 20px 10px;
     vertical-align: middle;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6343,7 +6346,7 @@ nav.menu .cr-dropdown ul {
     font-weight: 700;
     margin-left: 10px;
     text-decoration: none;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
     color: #333;
 }
@@ -6366,7 +6369,7 @@ nav.menu .cr-dropdown ul {
     height: 40px;
     padding: 0 5px 0 10px;
     width: 60px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6374,7 +6377,7 @@ nav.menu .cr-dropdown ul {
     font-size: 14px;
     font-weight: bold;
     width: 120px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6419,7 +6422,7 @@ nav.menu .cr-dropdown ul {
     text-shadow: none;
     text-transform: uppercase;
     transition: all 0.3s ease 0s;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6445,7 +6448,7 @@ nav.menu .cr-dropdown ul {
 .coupon p {
     font-size: 14px;
     color: #777;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
     color: #333;
 }
@@ -6458,7 +6461,7 @@ nav.menu .cr-dropdown ul {
     max-width: 100%;
     padding: 0 0 0 10px;
     width: 170px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
     color: #333;
 }
@@ -6476,7 +6479,7 @@ nav.menu .cr-dropdown ul {
 .cart_totals h2 {
     border-bottom: 2px solid #333;
     display: inline-block;
-    font-family: "Rufina", serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-size: 30px;
     font-weight: 400;
     margin: 0 0 35px;
@@ -6499,7 +6502,7 @@ nav.menu .cr-dropdown ul {
     text-transform: uppercase;
     vertical-align: top;
     color: #777;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
     color: #333;
 }
@@ -6518,7 +6521,7 @@ nav.menu .cr-dropdown ul {
     margin-left: 5px;
     text-align: right;
     text-transform: uppercase;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6536,7 +6539,7 @@ nav.menu .cr-dropdown ul {
     width: 100%;
     color: #333;
     font-size: 13px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6548,7 +6551,7 @@ nav.menu .cr-dropdown ul {
 
 .shipping a {
     color: #333;
-    font-family: "Rufina", serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-size: 13px;
     font-weight: 400;
 }
@@ -6558,7 +6561,7 @@ nav.menu .cr-dropdown ul {
     font-size: 20px;
     text-transform: uppercase;
     white-space: nowrap;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6579,7 +6582,7 @@ nav.menu .cr-dropdown ul {
     margin-top: 20px;
     padding: 0 30px;
     text-transform: uppercase;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6601,7 +6604,7 @@ nav.menu .cr-dropdown ul {
     background-color: #f7f6f7;
     border-top: 3px solid #f07c29;
     color: #333;
-    font-family: "Rufina", serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-size: 14px;
     font-weight: 400;
     list-style: outside none none;
@@ -6624,7 +6627,7 @@ nav.menu .cr-dropdown ul {
 .coupon-accordion span {
     color: #6f6f6f;
     cursor: pointer;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6657,7 +6660,7 @@ p.lost-password a:hover {
 .coupon-accordion span {
     color: #333;
     cursor: pointer;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6665,7 +6668,7 @@ p.lost-password a:hover {
 .coupon-info p.form-row-last label span.required {
     color: #FF1111;
     font-weight: 700;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6677,7 +6680,7 @@ p.lost-password a:hover {
     max-width: 100%;
     padding: 0 0 0 10px;
     width: 370px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6701,7 +6704,7 @@ p.lost-password a:hover {
     text-transform: uppercase;
     transition: all 0.3s ease 0s;
     white-space: nowrap;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6720,7 +6723,7 @@ p.lost-password {
 
 p.lost-password a {
     color: #333;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6744,7 +6747,7 @@ p.checkout-coupon input[type="submit"] {
     margin-left: 6px;
     padding: 5px 10px;
     transition: all 0.3s ease 0s;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6764,7 +6767,7 @@ p.lost-password a:hover {
     margin: 0 0 20px;
     padding-bottom: 10px;
     text-transform: uppercase;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6780,14 +6783,14 @@ p.lost-password a:hover {
     font-size: 14px;
     font-weight: 600;
     margin: 0 0 5px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
 .country-select label span.required,
 .checkout-form-list label span.required {
     color: #FF1111;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6797,7 +6800,7 @@ p.lost-password a:hover {
     border: 1px solid #ddd;
     padding-left: 10px;
     font-size: 13px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6813,7 +6816,7 @@ p.lost-password a:hover {
     height: 42px;
     padding: 0 0 0 10px;
     width: 100%;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6845,7 +6848,7 @@ p.lost-password a:hover {
 .create-account p {
     font-size: 13px;
     color: #777;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6874,7 +6877,7 @@ p.lost-password a:hover {
     text-transform: uppercase;
     width: 100%;
     color: #252525;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6901,7 +6904,7 @@ p.lost-password a:hover {
     padding: 15px 0;
     text-align: center;
     color: #333;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6926,7 +6929,7 @@ p.lost-password a:hover {
 .your-order-table table tr.order-total td span {
     color: #ec4445;
     font-size: 20px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6961,7 +6964,7 @@ p.lost-password a:hover {
     text-transform: capitalize;
     margin-bottom: 10px;
     display: inline-block;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -6974,7 +6977,7 @@ p.lost-password a:hover {
     font-size: 14px;
     margin-bottom: 0;
     color: #333;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -7018,7 +7021,7 @@ p.lost-password a:hover {
     text-transform: uppercase;
     transition: all 0.3s ease 0s;
     width: 100%;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -7034,7 +7037,7 @@ p.lost-password a:hover {
     color: #252525;
     font-size: 30px;
     font-weight: 300;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -7056,7 +7059,7 @@ p.lost-password a:hover {
     padding: 15px 10px;
     text-align: center;
     color: #333;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -7085,7 +7088,7 @@ p.lost-password a:hover {
 .wishlist-table table .product-remove>a {
     font-size: 25px;
     color: #333;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -7100,7 +7103,7 @@ p.lost-password a:hover {
 .product-name a {
     color: #333;
     transition: .3s;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -7128,7 +7131,7 @@ p.lost-password a:hover {
     padding: 10px 56px;
     text-transform: uppercase;
     width: 260px;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -7144,7 +7147,7 @@ p.lost-password a:hover {
     color: #252525;
     font-size: 18px;
     font-weight: 500;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -7158,7 +7161,7 @@ p.lost-password a:hover {
     font-size: 20px;
     text-decoration: none;
     transition: all 0.3s ease 0s;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
 }
 
@@ -7178,7 +7181,7 @@ p.lost-password a:hover {
     color: #000;
     font-size: 24px;
     margin-bottom: 0;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
     font-weight: 400;
 }
@@ -7196,7 +7199,7 @@ p.lost-password a:hover {
     padding: 10px 30px;
     transition: .3s;
     text-decoration: none;
-    font-family: 'Rufina', serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-weight: 400;
     font-weight: 400;
 }
@@ -7227,7 +7230,7 @@ p.lost-password a:hover {
 
 .modal-pro-content h3 {
     color: #333;
-    font-family: "Rufina", serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-size: 50px;
     font-weight: 400;
     line-height: 1;
@@ -7241,7 +7244,7 @@ p.lost-password a:hover {
 
 .modal-pro-content .price>span {
     color: #f07c29;
-    font-family: "Rufina", serif;
+   font-family: "OPTITimes-Roman", sans-serif;
     font-size: 28px;
     font-style: italic;
     font-weight: 600;

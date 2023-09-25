@@ -21,7 +21,35 @@ $page = 'exhibits';
 <div class="shop-main-area mb-70 mt-5">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 col-md-12 col-12 order-lg-2 order-1">
+            <div class="col-lg-3 col-md-12 col-12 order-lg-1 order-2 mt-sm-50 mt-xs-40">
+                <div class="shop-left">
+                    <div class="left-title mb-20 mt-5">
+                        <h4>Category</h4>
+                    </div>
+                    <div class="left-menu mb-30">
+                        <ul>
+                            <li><a href="#">Jackets<span>(15)</span></a></li>
+                            <li><a href="#">weaters<span>(9)</span></a></li>
+                            <li><a href="#">Bottoms<span>(12)</span></a></li>
+                            <li><a href="#">Jeans Pants<span>(6)</span></a></li>
+                        </ul>
+                    </div>
+
+                    <div class="left-title mb-20">
+                        <h4>Price</h4>
+                    </div>
+                    <div class="left-menu mb-30">
+                        <ul>
+                            <li><a href="#">$0.00-$9.99<span>(1)</span></a></li>
+                            <li><a href="#">$30.00-$39.99<span>(11)</span></a></li>
+                            <li><a href="#">$40.00-$49.99<span>(2)</span></a></li>
+                            <li><a href="#">$50.00-$59.99<span>(3)</span></a></li>
+                            <li><a href="#">$70.00-and above<span>(1)</span></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-9 col-md-12 col-12 order-lg-2 order-1">
                 <div class="toolbar mb-30">
                     <div class="toolbar-sorter">
                         <span>Sort By</span>

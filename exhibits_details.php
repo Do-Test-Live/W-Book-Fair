@@ -87,22 +87,22 @@ $page = 'exhibits';
                 <div class="product-info-area mt-80">
                     <!-- Nav tabs -->
                     <ul class="nav" role="tablist">
-                        <li><a class="active" href="#Details" data-bs-toggle="tab" aria-selected="true" role="tab">Contact Details</a>
+                        <li><a class="active" style="font-size: 20px" href="#Details" data-bs-toggle="tab" aria-selected="true" role="tab">Product Description</a>
                         </li>
                     </ul>
                     <div class="tab-content">
                         <div class="tab-pane fade active show" id="Details" role="tabpanel">
-                            <div class="valu">
+                            <div class="valu" style="line-height: 40px;">
                                 <ul>
-                                    <li><i class="fa fa-circle"></i>Exhibit Type</li>
-                                    <li><i class="fa fa-circle"></i>Exhibit Category</li>
-                                    <li><i class="fa fa-circle"></i>Contact Name</li>
-                                    <li><i class="fa fa-circle"></i>Title</li>
-                                    <li><i class="fa fa-circle"></i>Contact Email</li>
-                                    <li><i class="fa fa-circle"></i>Contact Phone</li>
-                                    <li><i class="fa fa-circle"></i>Contact Fax</li>
-                                    <li><i class="fa fa-circle"></i>Contact Website</li>
-                                    <li><i class="fa fa-circle"></i>Contact Address</li>
+                                    <li><i class="fa fa-circle"></i>Exhibit Type : <span style="font-weight: normal">  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></li>
+                                    <li><i class="fa fa-circle"></i>Exhibit Category : <span style="font-weight: normal"> Lorem ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></li>
+                                    <li><i class="fa fa-circle"></i>Contact Name : <span style="font-weight: normal"> Lorem ipsum </span></li>
+                                    <li><i class="fa fa-circle"></i>Title :  <span style="font-weight: normal"> Lorem ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></li>
+                                    <li><i class="fa fa-circle"></i>Contact Email : <span style="font-weight: normal"> example@gmail.com</span></li>
+                                    <li><i class="fa fa-circle"></i>Contact Phone : <span style="font-weight: normal"> 0000000000</span></li>
+                                    <li><i class="fa fa-circle"></i>Contact Fax : <span style="font-weight: normal"> 00000000</span></li>
+                                    <li><i class="fa fa-circle"></i>Contact Website : <span style="font-weight: normal"> xxxxxxxxx</span></li>
+                                    <li><i class="fa fa-circle"></i>Contact Address : <span style="font-weight: normal"> Lorem ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></li>
                                 </ul>
                             </div>
                         </div>
