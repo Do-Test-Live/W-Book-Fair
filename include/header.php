@@ -9,8 +9,8 @@
                             <li><img src="img/flag/1.jpg" alt="flag" /><a href="#">English<i class="fa fa-angle-down"></i></a>
                                 <div class="header-sub">
                                     <ul>
-                                        <li><a href="#"><img src="img/flag/2.jpg" alt="flag" />france</a></li>
-                                        <li><a href="#"><img src="img/flag/3.jpg" alt="flag" />croatia</a></li>
+                                        <li><a href="#"><img src="img/flag/1.jpg" alt="flag" />English</a></li>
+                                        <li><a href="#"><img src="img/flag/4.jpg" alt="flag" />HongKong</a></li>
                                     </ul>
                                 </div>
                             </li>
