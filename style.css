@@ -873,12 +873,13 @@ body {
     background: transparent none repeat scroll 0 0;
     color: #000000;
     display: block;
-    font-size: 12px;
-    font-weight: 700;
+    font-size: 14px;
     line-height: 25px;
     padding: 13px 20px;
     position: relative;
     text-transform: capitalize;
+    font-weight: 800;
+    letter-spacing: 1px;
     z-index: 4;
 }
 
