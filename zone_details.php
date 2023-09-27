@@ -29,9 +29,9 @@ $page = 'zone';
                                 <div class="flex-viewport" style="overflow: hidden; position: relative;">
                                     <ul class="slides"
                                         style="width: 1200%; transition-duration: 0.6s; transform: translate3d(-966px, 0px, 0px);">
-                                        <li data-thumb="img/thum-2/5.jpg" class="clone" aria-hidden="true"
+                                        <li data-thumb="img/zone_details.jpeg" class="clone" aria-hidden="true"
                                             style="width: 322px; margin-right: 0px; float: left; display: block;">
-                                            <img src="img/flex/5.jpg" alt="woman" draggable="false">
+                                            <img style="border: 2px solid #d9d9d9; border-radius: 10px;" src="img/zone_details.jpeg" alt="woman" draggable="false">
                                         </li>
                                     </ul>
                                 </div>

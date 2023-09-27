@@ -79,7 +79,7 @@ $page = 'exhibits';
                                         </div>
                                     </div>
                                     <div class="product-details text-center">
-                                        <h3><a href="exhibits_details.php" style="color: #000;">Exhibit Name</a></h3>
+                                        <h3 class="mt-3"><a href="exhibits_details.php" style="color: #000; margin-top: 20px">Exhibit Name</a></h3>
                                         <div class="product-addto-links">
                                             <a href="#"><i class="fa fa-facebook"></i></a>
                                             <a href="#"><i class="fa fa-twitter"></i></a>
@@ -105,7 +105,7 @@ $page = 'exhibits';
                                         </div>
                                     </div>
                                     <div class="product-details text-center">
-                                        <h3><a href="exhibits_details.php" style="color: #000;">Exhibit Name</a></h3>
+                                        <h3 class="mt-3"><a href="exhibits_details.php" style="color: #000;">Exhibit Name</a></h3>
                                         <div class="product-addto-links">
                                             <a href="#"><i class="fa fa-facebook"></i></a>
                                             <a href="#"><i class="fa fa-twitter"></i></a>
@@ -131,7 +131,7 @@ $page = 'exhibits';
                                         </div>
                                     </div>
                                     <div class="product-details text-center">
-                                        <h3><a href="exhibits_details.php" style="color: #000;">Exhibit Name</a></h3>
+                                        <h3 class="mt-3"><a href="exhibits_details.php" style="color: #000;">Exhibit Name</a></h3>
                                         <div class="product-addto-links">
                                             <a href="#"><i class="fa fa-facebook"></i></a>
                                             <a href="#"><i class="fa fa-twitter"></i></a>
@@ -157,7 +157,7 @@ $page = 'exhibits';
                                         </div>
                                     </div>
                                     <div class="product-details text-center">
-                                        <h3><a href="exhibits_details.php" style="color: #000;">Exhibit Name</a></h3>
+                                        <h3 class="mt-3"><a href="exhibits_details.php" style="color: #000;">Exhibit Name</a></h3>
                                         <div class="product-addto-links">
                                             <a href="#"><i class="fa fa-facebook"></i></a>
                                             <a href="#"><i class="fa fa-twitter"></i></a>

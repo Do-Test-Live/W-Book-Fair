@@ -1480,6 +1480,8 @@ body {
 .most-product-img {
     position: relative;
     overflow: hidden;
+    border: 2px solid #d9d9d9;
+    border-radius: 10px;
 }
 
 .product-img::after,
@@ -1505,6 +1507,7 @@ body {
 
 .product-img a img {
     width: 100%;
+    padding-top: 50px;
 }
 
 .quick-view {

@@ -24,7 +24,7 @@ $page = 'zone';
                 <div class="product-wrapper mb-40">
                     <div class="product-img">
                         <a href="zone_details.php">
-                            <img src="img/product/1.jpg" alt="book" class="primary">
+                            <img src="img/zone.jpeg" alt="book" class="primary">
                         </a>
                         <div class="quick-view">
                             <a class="action-view" href="zone_details.php" title="View Details">
@@ -43,7 +43,7 @@ $page = 'zone';
                 <div class="product-wrapper mb-40">
                     <div class="product-img">
                         <a href="zone_details.php">
-                            <img src="img/product/1.jpg" alt="book" class="primary">
+                            <img src="img/zone.jpeg" alt="book" class="primary">
                         </a>
                         <div class="quick-view">
                             <a class="action-view" href="zone_details.php" title="View Details">
@@ -62,7 +62,7 @@ $page = 'zone';
                 <div class="product-wrapper mb-40">
                     <div class="product-img">
                         <a href="zone_details.php">
-                            <img src="img/product/1.jpg" alt="book" class="primary">
+                            <img src="img/zone.jpeg" alt="book" class="primary">
                         </a>
                         <div class="quick-view">
                             <a class="action-view" href="zone_details.php" title="View Details">
@@ -81,7 +81,7 @@ $page = 'zone';
                 <div class="product-wrapper mb-40">
                     <div class="product-img">
                         <a href="zone_details.php">
-                            <img src="img/product/1.jpg" alt="book" class="primary">
+                            <img src="img/zone.jpeg" alt="book" class="primary">
                         </a>
                         <div class="quick-view">
                             <a class="action-view" href="zone_details.php" title="View Details">
