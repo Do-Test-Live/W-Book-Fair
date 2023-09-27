@@ -7633,4 +7633,11 @@ p.lost-password a:hover {
     color: #c29958;
 }
 
+
+@media only screen and (max-width: 992px) {
+    .product-addto-links a {
+        height: 40px;
+        width: 25px;
+    }
+}
 /*------ end Compare Page Wrapper -----*/
