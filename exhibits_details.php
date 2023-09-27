@@ -76,6 +76,25 @@ $page = 'exhibits';
                                             with a man who chooses to enjoy a pleasure that has no annoying
                                             consequences, or one who avoids a pain that produces no resultant
                                             pleasure?</p>
+                                        <p style="padding: 5px;">Share On:</p>
+                                        <div class="product-addto-links">
+                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                            <a href="#"><i class="fa fa-pinterest"></i></a>
+                                            <a href="#"><i class="fa fa-envelope"></i></a>
+                                        </div>
+                                        <div class="row slider-content mx-auto">
+                                            <div class="col-lg-4 col-md-4 col-6">
+                                                <a href="#">Voice</a>
+                                            </div>
+                                            <div class="col-lg-4 col-md-4 col-6">
+                                                <a href="#">Stop</a>
+                                            </div>
+                                            <div class="col-lg-4 col-md-4 col-6">
+                                                <a href="#">Contact Us</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>

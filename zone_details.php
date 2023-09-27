@@ -24,7 +24,7 @@ $page = 'zone';
                 <!-- product-main-area-start -->
                 <div class="product-main-area">
                     <div class="row">
-                        <div class="col-lg-5 col-md-6 col-12">
+                        <div class="col-lg-12 col-md-12 col-12">
                             <div class="flexslider">
                                 <div class="flex-viewport" style="overflow: hidden; position: relative;">
                                     <ul class="slides"
@@ -37,38 +37,6 @@ $page = 'zone';
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-7 col-md-6 col-12">
-                            <div class="product-info-main">
-                                <div class="page-title">
-                                    <h1>Company Name</h1>
-                                </div>
-
-                                <div class="product-info-price">
-                                    <div class="price-final">
-                                        <span>Contact Details</span>
-                                    </div>
-                                </div>
-
-                                <div class="product-social-links">
-                                    <div class="product-addto-links-text">
-                                        <p>But I must explain to you how all this mistaken idea of denouncing pleasure
-                                            and praising pain was born and I will give you a complete account of the
-                                            system, and expound the actual teachings of the great explorer of the truth,
-                                            the master-builder of human happiness. No one rejects, dislikes, or avoids
-                                            pleasure itself, because it is pleasure, but because those who do not know
-                                            how to pursue pleasure rationally encounter consequences that are extremely
-                                            painful. Nor again is there anyone who loves or pursues or desires to obtain
-                                            pain of itself, because it is pain, but because occasionally circumstances
-                                            occur in which toil and pain can procure him some great pleasure. To take a
-                                            trivial example, which of us ever undertakes laborious physical exercise,
-                                            except to obtain some advantage from it? But who has any right to find fault
-                                            with a man who chooses to enjoy a pleasure that has no annoying
-                                            consequences, or one who avoids a pain that produces no resultant
-                                            pleasure?</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                 </div>
                 <!-- product-main-area-end -->
@@ -76,23 +44,37 @@ $page = 'zone';
                 <div class="product-info-area mt-80">
                     <!-- Nav tabs -->
                     <ul class="nav" role="tablist">
-                        <li><a class="active" style="font-size: 20px" href="#Details" data-bs-toggle="tab" aria-selected="true" role="tab">Product Description</a>
+                        <li><a class="active" style="font-size: 16px" href="#company" data-bs-toggle="tab" aria-selected="true" role="tab">Product Description</a>
+                        </li>
+                        <li><a class="" style="font-size: 16px" href="#contact" data-bs-toggle="tab" aria-selected="true" role="tab">Product Description</a>
                         </li>
                     </ul>
                     <div class="tab-content">
-                        <div class="tab-pane fade active show" id="Details" role="tabpanel">
-                            <div class="valu" style="line-height: 40px;">
-                                <ul>
-                                    <li><i class="fa fa-circle"></i>Exhibit Type : <span style="font-weight: normal">  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></li>
-                                    <li><i class="fa fa-circle"></i>Exhibit Category : <span style="font-weight: normal"> Lorem ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></li>
-                                    <li><i class="fa fa-circle"></i>Contact Name : <span style="font-weight: normal"> Lorem ipsum </span></li>
-                                    <li><i class="fa fa-circle"></i>Title :  <span style="font-weight: normal"> Lorem ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></li>
-                                    <li><i class="fa fa-circle"></i>Contact Email : <span style="font-weight: normal"> example@gmail.com</span></li>
-                                    <li><i class="fa fa-circle"></i>Contact Phone : <span style="font-weight: normal"> 0000000000</span></li>
-                                    <li><i class="fa fa-circle"></i>Contact Fax : <span style="font-weight: normal"> 00000000</span></li>
-                                    <li><i class="fa fa-circle"></i>Contact Website : <span style="font-weight: normal"> xxxxxxxxx</span></li>
-                                    <li><i class="fa fa-circle"></i>Contact Address : <span style="font-weight: normal"> Lorem ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></li>
-                                </ul>
+                        <div class="tab-pane fade active show" id="company" role="tabpanel">
+                            <div class="valu">
+                               <h4>Sheck Wah Tong Printing Press Limited</h4>
+                                <h4 class="mt-5">Company Introduction</h4>
+                                <p>Our product variety covers all kind of books including bibles, novelty books and coffee table books, board and pop-up books, as well as packaging boxes, greeting cards, Atlases, calendars and paper bags.</p>
+                                <h4 class="mt-5">Type of Company</h4>
+                                <p>Printer</p>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="contact" role="tabpanel">
+                            <div class="valu">
+                                <h4>Company Business/Copyright Contact Name</h4>
+                                <p>YY Kwan</p>
+                                <h4 class="mt-5">Title</h4>
+                                <p>General Manager</p>
+                                <h4 class="mt-5">Contact Email</h4>
+                                <p><a href="mailto:yykwan@swt.com.hk" style="color: #333333;">yykwan@swt.com.hk</a></p>
+                                <h4 class="mt-5">Contact Number</h4>
+                                <p>(852) 2562 8293</p>
+                                <h4 class="mt-5">Fax</h4>
+                                <p>(852) 2565 5431</p>
+                                <h4 class="mt-5">Company Address</h4>
+                                <p>1/F Tung Chong Factory Building, 653-659 King's Rd North Point, Hong Kong</p>
+                                <h4 class="mt-5">Company Website</h4>
+                                <p><a href="#" style="color: #333333;">www.sheckwahtong.com</a></p>
                             </div>
                         </div>
                     </div>

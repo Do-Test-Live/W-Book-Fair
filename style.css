@@ -581,7 +581,7 @@ body {
 /*----------------------------------------*/
 
 .header-search {
-    margin-top: 7px;
+    margin: auto;
 }
 
 .header-search form {
@@ -1247,7 +1247,7 @@ body {
     border-radius: 4px;
     color: #fff;
     display: inline-block;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 400;
     line-height: 34px;
     margin-top: 43px;
@@ -4723,7 +4723,7 @@ nav.menu .cr-dropdown ul {
 }
 
 .product-info-area .valu>p {
-    font-size: 13px;
+    font-size: 16px;
     margin-bottom: 15px;
     color: #333;
 }

@@ -19,7 +19,7 @@ $page = 'zone';
 <div class="container mt-5">
     <div class="active" id="th">
         <div class="row">
-            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
+            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
                 <!-- single-product-start -->
                 <div class="product-wrapper mb-40">
                     <div class="product-img">
@@ -38,7 +38,7 @@ $page = 'zone';
                 </div>
                 <!-- single-product-end -->
             </div>
-            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
+            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
                 <!-- single-product-start -->
                 <div class="product-wrapper mb-40">
                     <div class="product-img">
@@ -57,7 +57,7 @@ $page = 'zone';
                 </div>
                 <!-- single-product-end -->
             </div>
-            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
+            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
                 <!-- single-product-start -->
                 <div class="product-wrapper mb-40">
                     <div class="product-img">
@@ -76,83 +76,7 @@ $page = 'zone';
                 </div>
                 <!-- single-product-end -->
             </div>
-            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
-                <!-- single-product-start -->
-                <div class="product-wrapper mb-40">
-                    <div class="product-img">
-                        <a href="zone_details.php">
-                            <img src="img/product/1.jpg" alt="book" class="primary">
-                        </a>
-                        <div class="quick-view">
-                            <a class="action-view" href="zone_details.php" title="View Details">
-                                <i class="fa fa-search-plus"></i>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="product-details text-center">
-                        <h4><a href="zone_details.php">Company Name</a></h4>
-                    </div>
-                </div>
-                <!-- single-product-end -->
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
-                <!-- single-product-start -->
-                <div class="product-wrapper mb-40">
-                    <div class="product-img">
-                        <a href="zone_details.php">
-                            <img src="img/product/1.jpg" alt="book" class="primary">
-                        </a>
-                        <div class="quick-view">
-                            <a class="action-view" href="zone_details.php" title="View Details">
-                                <i class="fa fa-search-plus"></i>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="product-details text-center">
-                        <h4><a href="zone_details.php">Company Name</a></h4>
-                    </div>
-                </div>
-                <!-- single-product-end -->
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
-                <!-- single-product-start -->
-                <div class="product-wrapper mb-40">
-                    <div class="product-img">
-                        <a href="zone_details.php">
-                            <img src="img/product/1.jpg" alt="book" class="primary">
-                        </a>
-                        <div class="quick-view">
-                            <a class="action-view" href="zone_details.php" title="View Details">
-                                <i class="fa fa-search-plus"></i>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="product-details text-center">
-                        <h4><a href="zone_details.php">Company Name</a></h4>
-                    </div>
-                </div>
-                <!-- single-product-end -->
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
-                <!-- single-product-start -->
-                <div class="product-wrapper mb-40">
-                    <div class="product-img">
-                        <a href="zone_details.php">
-                            <img src="img/product/1.jpg" alt="book" class="primary">
-                        </a>
-                        <div class="quick-view">
-                            <a class="action-view" href="zone_details.php" title="View Details">
-                                <i class="fa fa-search-plus"></i>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="product-details text-center">
-                        <h4><a href="zone_details.php">Company Name</a></h4>
-                    </div>
-                </div>
-                <!-- single-product-end -->
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
+            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
                 <!-- single-product-start -->
                 <div class="product-wrapper mb-40">
                     <div class="product-img">

@@ -6,32 +6,14 @@
             <div class="row">
                 <div class="col-lg-8 col-md-12">
                     <div class="row">
-                        <div class="col-lg-6 col-md-12 col-12">
+                        <div class="col-12">
                             <div class="single-footer br-2 xs-mb">
                                 <div class="footer-title mb-20">
-                                    <h3>Our Menu</h3>
+                                    <h3>Disclaimer</h3>
                                 </div>
                                 <div class="footer-mid-menu">
-                                    <ul>
-                                        <li><a href="index.php">Home</a></li>
-                                        <li><a href="zone.php">Zone</a></li>
-                                        <li><a href="exhibits.php">Exhibits</a></li>
-                                        <li><a href="documents/exhibits.pdf" target="_blank">Exhibitors Directory</a></li>
-                                        <li><a href="sponsor.php">Organistra & Sponsor</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-12 col-12">
-                            <div class="single-footer br-2 xs-mb">
-                                <div class="footer-title mb-20">
-                                    <h3>Quick Links</h3>
-                                </div>
-                                <div class="footer-mid-menu">
-                                    <ul>
-                                        <li><a href="login.php">Sign In</a></li>
-                                        <li><a href="sign_up.php">Sign Up</a></li>
-                                    </ul>
+                                    <p style="text-align: justify; padding-right: 10px;">Create Hong Kong of the Government of the Hong Kong Special Administrative Region provides funding support to the project only, and does not otherwise take part in the project. Any opinions, findings, conclusions or recommendations expressed in these materials/events (or by members of the project team) are those of the project organisers only and do not reflect the views of the Government of the Hong Kong Special Administrative Region, the Culture, Sports and Tourism Bureau, Create Hong Kong, the CreateSmart Initiative Secretariat or the CreateSmart Initiative Vetting Committee.
+                                    </p>
                                 </div>
                             </div>
                         </div>

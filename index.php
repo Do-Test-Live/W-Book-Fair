@@ -27,18 +27,8 @@ $page = 'home';
                         <div class="slider-content slider-animated-1 text-center">
                             <h1>Hong Kong</h1>
                             <h2>Pavilion</h2>
-                            <a href="#">Shop now</a>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-        <div class="single-slider slider-h1-2 pt-215 pb-100 bg-img" style="background-image:url(img/slider/2.jpg);">
-            <div class="container">
-                <div class="slider-content slider-content-2 slider-animated-1">
-                    <h1>Hong Kong</h1>
-                    <h2>Pavilion</h2>
-                    <a href="#">Contact Us Today!</a>
                 </div>
             </div>
         </div>
@@ -48,7 +38,7 @@ $page = 'home';
 
 
 <!-- banner-area-start -->
-<div class="banner-area-5 mtb-95">
+<!--<div class="banner-area-5 mtb-95">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -62,12 +52,12 @@ $page = 'home';
             </div>
         </div>
     </div>
-</div>
+</div>-->
 <!-- banner-area-end -->
 
 
 <!-- bestseller-area-start -->
-<div class="bestseller-area pb-100">
+<div class="bestseller-area pb-100" style="margin-top: 100px">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-12">

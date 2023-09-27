@@ -65,7 +65,7 @@ $page = 'exhibits';
                 <div class="tab-content">
                     <div class="tab-pane fade show active" id="th">
                         <div class="row">
-                            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
+                            <div class="col-6">
                                 <!-- single-product-start -->
                                 <div class="product-wrapper mb-40">
                                     <div class="product-img">
@@ -79,12 +79,19 @@ $page = 'exhibits';
                                         </div>
                                     </div>
                                     <div class="product-details text-center">
-                                        <h4><a href="exhibits_details.php">Exhibit Name</a></h4>
+                                        <h3><a href="exhibits_details.php" style="color: #000;">Exhibit Name</a></h3>
+                                        <div class="product-addto-links">
+                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                            <a href="#"><i class="fa fa-pinterest"></i></a>
+                                            <a href="#"><i class="fa fa-envelope"></i></a>
+                                        </div>
                                     </div>
                                 </div>
                                 <!-- single-product-end -->
                             </div>
-                            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
+                            <div class="col-6">
                                 <!-- single-product-start -->
                                 <div class="product-wrapper mb-40">
                                     <div class="product-img">
@@ -98,12 +105,19 @@ $page = 'exhibits';
                                         </div>
                                     </div>
                                     <div class="product-details text-center">
-                                        <h4><a href="exhibits_details.php">Exhibit Name</a></h4>
+                                        <h3><a href="exhibits_details.php" style="color: #000;">Exhibit Name</a></h3>
+                                        <div class="product-addto-links">
+                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                            <a href="#"><i class="fa fa-pinterest"></i></a>
+                                            <a href="#"><i class="fa fa-envelope"></i></a>
+                                        </div>
                                     </div>
                                 </div>
                                 <!-- single-product-end -->
                             </div>
-                            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
+                            <div class="col-6">
                                 <!-- single-product-start -->
                                 <div class="product-wrapper mb-40">
                                     <div class="product-img">
@@ -117,12 +131,19 @@ $page = 'exhibits';
                                         </div>
                                     </div>
                                     <div class="product-details text-center">
-                                        <h4><a href="exhibits_details.php">Exhibit Name</a></h4>
+                                        <h3><a href="exhibits_details.php" style="color: #000;">Exhibit Name</a></h3>
+                                        <div class="product-addto-links">
+                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                            <a href="#"><i class="fa fa-pinterest"></i></a>
+                                            <a href="#"><i class="fa fa-envelope"></i></a>
+                                        </div>
                                     </div>
                                 </div>
                                 <!-- single-product-end -->
                             </div>
-                            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
+                            <div class="col-6">
                                 <!-- single-product-start -->
                                 <div class="product-wrapper mb-40">
                                     <div class="product-img">
@@ -136,83 +157,14 @@ $page = 'exhibits';
                                         </div>
                                     </div>
                                     <div class="product-details text-center">
-                                        <h4><a href="exhibits_details.php">Exhibit Name</a></h4>
-                                    </div>
-                                </div>
-                                <!-- single-product-end -->
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
-                                <!-- single-product-start -->
-                                <div class="product-wrapper mb-40">
-                                    <div class="product-img">
-                                        <a href="exhibits_details.php">
-                                            <img src="img/product/1.jpg" alt="book" class="primary" />
-                                        </a>
-                                        <div class="quick-view">
-                                            <a class="action-view" href="exhibits_details.php" title="Details">
-                                                <i class="fa fa-search-plus"></i>
-                                            </a>
+                                        <h3><a href="exhibits_details.php" style="color: #000;">Exhibit Name</a></h3>
+                                        <div class="product-addto-links">
+                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                            <a href="#"><i class="fa fa-twitter"></i></a>
+                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                            <a href="#"><i class="fa fa-pinterest"></i></a>
+                                            <a href="#"><i class="fa fa-envelope"></i></a>
                                         </div>
-                                    </div>
-                                    <div class="product-details text-center">
-                                        <h4><a href="exhibits_details.php">Exhibit Name</a></h4>
-                                    </div>
-                                </div>
-                                <!-- single-product-end -->
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
-                                <!-- single-product-start -->
-                                <div class="product-wrapper mb-40">
-                                    <div class="product-img">
-                                        <a href="exhibits_details.php">
-                                            <img src="img/product/1.jpg" alt="book" class="primary" />
-                                        </a>
-                                        <div class="quick-view">
-                                            <a class="action-view" href="exhibits_details.php" title="Details">
-                                                <i class="fa fa-search-plus"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="product-details text-center">
-                                        <h4><a href="exhibits_details.php">Exhibit Name</a></h4>
-                                    </div>
-                                </div>
-                                <!-- single-product-end -->
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
-                                <!-- single-product-start -->
-                                <div class="product-wrapper mb-40">
-                                    <div class="product-img">
-                                        <a href="exhibits_details.php">
-                                            <img src="img/product/1.jpg" alt="book" class="primary" />
-                                        </a>
-                                        <div class="quick-view">
-                                            <a class="action-view" href="exhibits_details.php" title="Details">
-                                                <i class="fa fa-search-plus"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="product-details text-center">
-                                        <h4><a href="exhibits_details.php">Exhibit Name</a></h4>
-                                    </div>
-                                </div>
-                                <!-- single-product-end -->
-                            </div>
-                            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
-                                <!-- single-product-start -->
-                                <div class="product-wrapper mb-40">
-                                    <div class="product-img">
-                                        <a href="exhibits_details.php">
-                                            <img src="img/product/1.jpg" alt="book" class="primary" />
-                                        </a>
-                                        <div class="quick-view">
-                                            <a class="action-view" href="exhibits_details.php" title="Details">
-                                                <i class="fa fa-search-plus"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="product-details text-center">
-                                        <h4><a href="exhibits_details.php">Exhibit Name</a></h4>
                                     </div>
                                 </div>
                                 <!-- single-product-end -->
