@@ -22,5 +22,8 @@
 <script src="js/waypoints.min.js"></script>
 <!-- plugins js -->
 <script src="js/plugins.js"></script>
+
+<script src="uikit/js/uikit.min.js"></script>
+<script src="uikit/js/uikit-icons.min.js"></script>
 <!-- main js -->
 <script src="js/main.js"></script>

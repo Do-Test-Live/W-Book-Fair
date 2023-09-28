@@ -20,6 +20,7 @@
 <!-- chosen.min.css-->
 <link rel="stylesheet" href="css/chosen.min.css">
 
+<link rel="stylesheet" href="uikit/css/uikit.min.css">
 <!-- style css -->
 <link rel="stylesheet" href="style.css">
 <!-- responsive css -->
