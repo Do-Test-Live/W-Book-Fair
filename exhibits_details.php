@@ -29,16 +29,16 @@ $page = 'exhibits';
                             <div class="flexslider">
                                 <ul class="slides">
                                     <li data-thumb="img/flex/1.jpg">
-                                        <img src="img/flex/1.jpg" alt="woman" />
+                                        <img src="img/flex/1.jpg" alt="book" />
                                     </li>
                                     <li data-thumb="img/flex/1.jpg">
-                                        <img src="img/flex/1.jpg" alt="woman" />
+                                        <img src="img/flex/1.jpg" alt="book" />
                                     </li>
                                     <li data-thumb="img/flex/1.jpg">
-                                        <img src="img/flex/1.jpg" alt="woman" />
+                                        <img src="img/flex/1.jpg" alt="book" />
                                     </li>
                                     <li data-thumb="img/flex/1.jpg">
-                                        <img src="img/flex/1.jpg" alt="woman" />
+                                        <img src="img/flex/1.jpg" alt="book" />
                                     </li>
                                 </ul>
                             </div>
