@@ -27,3 +27,29 @@
 <script src="uikit/js/uikit-icons.min.js"></script>
 <!-- main js -->
 <script src="js/main.js"></script>
+
+<script>
+        function openNav() {
+        document.getElementById("mySidenav").style.width = "300px";
+        document.getElementById("main").style.marginRight = "300px";
+    }
+
+        function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+        document.getElementById("main").style.marginRight= "0";
+    }
+        function showChatBox(){
+        document.getElementById('chat-list').style.display = 'none';
+        document.getElementById('chat-details').style.display = 'block';
+    }
+
+        function openCat() {
+            document.getElementById("category").style.width = "300px";
+            document.getElementById("main").style.marginLeft = "300px";
+        }
+
+        function closeCat() {
+            document.getElementById("category").style.width = "0";
+            document.getElementById("main").style.marginLeft= "0";
+        }
+</script>

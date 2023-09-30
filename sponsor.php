@@ -16,6 +16,8 @@ $page = 'sponsor';
 <?php include('include/header.php'); ?>
 <!-- header-area-end -->
 
+<?php include ('include/sidebar.php');?>
+
 <div class="container mt-5">
     <div class="row mb-5">
         <div class="col-12">

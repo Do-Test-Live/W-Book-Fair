@@ -16,6 +16,7 @@ $page = 'exhibits';
 <?php include('include/header.php'); ?>
 <!-- header-area-end -->
 
+<?php include ('include/sidebar.php');?>
 
 <div class="product-main-area mb-70 mt-5">
     <div class="container">
@@ -30,14 +31,14 @@ $page = 'exhibits';
                                     <li data-thumb="img/flex/1.jpg">
                                         <img src="img/flex/1.jpg" alt="woman" />
                                     </li>
-                                    <li data-thumb="img/flex/5.jpg">
-                                        <img src="img/flex/5.jpg" alt="woman" />
+                                    <li data-thumb="img/flex/1.jpg">
+                                        <img src="img/flex/1.jpg" alt="woman" />
                                     </li>
-                                    <li data-thumb="img/flex/2.jpg">
-                                        <img src="img/flex/2.jpg" alt="woman" />
+                                    <li data-thumb="img/flex/1.jpg">
+                                        <img src="img/flex/1.jpg" alt="woman" />
                                     </li>
-                                    <li data-thumb="img/flex/5.jpg">
-                                        <img src="img/flex/5.jpg" alt="woman" />
+                                    <li data-thumb="img/flex/1.jpg">
+                                        <img src="img/flex/1.jpg" alt="woman" />
                                     </li>
                                 </ul>
                             </div>
@@ -76,14 +77,6 @@ $page = 'exhibits';
                                             with a man who chooses to enjoy a pleasure that has no annoying
                                             consequences, or one who avoids a pain that produces no resultant
                                             pleasure?</p>
-                                        <p style="padding: 5px;">Share On:</p>
-                                        <div class="product-addto-links">
-                                            <a href="#"><i class="fa fa-facebook"></i></a>
-                                            <a href="#"><i class="fa fa-twitter"></i></a>
-                                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                                            <a href="#"><i class="fa fa-pinterest"></i></a>
-                                            <a href="#"><i class="fa fa-envelope"></i></a>
-                                        </div>
                                         <div class="row slider-content mx-auto">
                                             <div class="col-lg-4 col-md-4 col-6">
                                                 <a href="#">Voice</a>
@@ -123,6 +116,14 @@ $page = 'exhibits';
                                     <li><i class="fa fa-circle"></i>Contact Website : <span style="font-weight: normal"> xxxxxxxxx</span></li>
                                     <li><i class="fa fa-circle"></i>Contact Address : <span style="font-weight: normal"> Lorem ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></li>
                                 </ul>
+                                <p style="padding: 5px;">Share On:</p>
+                                <div class="product-addto-links">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                                    <a href="#"><i class="fa fa-pinterest"></i></a>
+                                    <a href="#"><i class="fa fa-envelope"></i></a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -147,7 +148,6 @@ $page = 'exhibits';
                                             </a>
                                             <div class="quick-view">
                                                 <a class="action-view" href="exhibits_details.php" title="Details">
-                                                    <i class="fa fa-search-plus"></i>
                                                 </a>
                                             </div>
                                         </div>

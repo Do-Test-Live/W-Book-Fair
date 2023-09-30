@@ -16,6 +16,7 @@ $page = 'zone';
 <?php include('include/header.php'); ?>
 <!-- header-area-end -->
 
+<?php include ('include/sidebar.php');?>
 
 <div class="product-main-area mb-70 mt-5">
     <div class="container">
@@ -46,7 +47,7 @@ $page = 'zone';
                     <ul class="nav" role="tablist">
                         <li><a class="active" style="font-size: 16px" href="#company" data-bs-toggle="tab" aria-selected="true" role="tab">Product Description</a>
                         </li>
-                        <li><a class="" style="font-size: 16px" href="#contact" data-bs-toggle="tab" aria-selected="true" role="tab">Product Description</a>
+                        <li><a class="" style="font-size: 16px" href="#contact" data-bs-toggle="tab" aria-selected="true" role="tab">Contact Us</a>
                         </li>
                     </ul>
                     <div class="tab-content">
@@ -65,15 +66,15 @@ $page = 'zone';
                                 <p>YY Kwan</p>
                                 <h4 class="mt-5">Title</h4>
                                 <p>General Manager</p>
-                                <h4 class="mt-5">Contact Email</h4>
+                                <h4 class="mt-5"><span uk-icon="icon: mail; ratio:1.5"></span> Contact Email</h4>
                                 <p><a href="mailto:yykwan@swt.com.hk" style="color: #333333;">yykwan@swt.com.hk</a></p>
-                                <h4 class="mt-5">Contact Number</h4>
+                                <h4 class="mt-5"><span uk-icon="icon: receiver; ratio:1.5"></span> Contact Number</h4>
                                 <p>(852) 2562 8293</p>
-                                <h4 class="mt-5">Fax</h4>
+                                <h4 class="mt-5"><span uk-icon="icon: print; ratio:1.5"></span> Fax</h4>
                                 <p>(852) 2565 5431</p>
-                                <h4 class="mt-5">Company Address</h4>
+                                <h4 class="mt-5"><span uk-icon="icon: location; ratio:1.5"></span> Company Address</h4>
                                 <p>1/F Tung Chong Factory Building, 653-659 King's Rd North Point, Hong Kong</p>
-                                <h4 class="mt-5">Company Website</h4>
+                                <h4 class="mt-5"><span uk-icon="icon: world; ratio:1.5"></span> Company Website</h4>
                                 <p><a href="#" style="color: #333333;">www.sheckwahtong.com</a></p>
                             </div>
                         </div>
@@ -99,7 +100,6 @@ $page = 'zone';
                                             </a>
                                             <div class="quick-view">
                                                 <a class="action-view" href="exhibits_details.php" title="Details">
-                                                    <i class="fa fa-search-plus"></i>
                                                 </a>
                                             </div>
                                         </div>

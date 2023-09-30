@@ -16,9 +16,14 @@ $page = 'zone';
 <?php include('include/header.php'); ?>
 <!-- header-area-end -->
 
+<?php include ('include/sidebar.php');?>
+
 <div class="container mt-5">
     <div class="active" id="th">
         <div class="row">
+            <div class="col-12">
+                <h3>Corprate zone- Printing</h3>
+            </div>
             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
                 <!-- single-product-start -->
                 <div class="product-wrapper mb-40">
@@ -28,7 +33,7 @@ $page = 'zone';
                         </a>
                         <div class="quick-view">
                             <a class="action-view" href="zone_details.php" title="View Details">
-                                <i class="fa fa-search-plus"></i>
+
                             </a>
                         </div>
                     </div>
@@ -47,7 +52,7 @@ $page = 'zone';
                         </a>
                         <div class="quick-view">
                             <a class="action-view" href="zone_details.php" title="View Details">
-                                <i class="fa fa-search-plus"></i>
+
                             </a>
                         </div>
                     </div>
@@ -66,7 +71,7 @@ $page = 'zone';
                         </a>
                         <div class="quick-view">
                             <a class="action-view" href="zone_details.php" title="View Details">
-                                <i class="fa fa-search-plus"></i>
+
                             </a>
                         </div>
                     </div>
@@ -85,7 +90,7 @@ $page = 'zone';
                         </a>
                         <div class="quick-view">
                             <a class="action-view" href="zone_details.php" title="View Details">
-                                <i class="fa fa-search-plus"></i>
+
                             </a>
                         </div>
                     </div>

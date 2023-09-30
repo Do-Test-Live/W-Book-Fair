@@ -1507,7 +1507,6 @@ body {
 
 .product-img a img {
     width: 100%;
-    padding-top: 50px;
 }
 
 .quick-view {
@@ -1527,7 +1526,7 @@ body {
 }
 
 .quick-view a {
-    background-color: #f07c29;
+    /*background-color: #f07c29;*/
     border-radius: 50px;
     color: #fff;
     display: inline-block;
