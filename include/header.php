@@ -6,11 +6,11 @@
                 <div class="col-lg-6 col-md-6 col-9">
                     <div class="language-area">
                         <ul>
-                            <li><img src="img/flag/1.jpg" alt="flag" /><a href="#">English<i class="fa fa-angle-down"></i></a>
+                            <li><a href="#">English<i class="fa fa-angle-down"></i></a>
                                 <div class="header-sub">
                                     <ul>
-                                        <li><a href="#"><img src="img/flag/1.jpg" alt="flag" />English</a></li>
-                                        <li><a href="#"><img src="img/flag/4.jpg" alt="flag" />HongKong</a></li>
+                                        <li><a href="#">English</a></li>
+                                        <li><a href="#">HongKong</a></li>
                                     </ul>
                                 </div>
                             </li>
@@ -35,31 +35,20 @@
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-4">
                     <div class="logo-area text-center logo-xs-mrg">
-                        <a href="index.php"><img src="img/logo/logo.png" alt="logo" style="width: 250px;" /></a>
+                        <a href="index.php"><img src="img/logo/logo.png" alt="logo" style="width: 350px;" /></a>
                     </div>
                 </div>
-                <div class="col-lg-2 col-md-2 col-2">
+                <div class="col-lg-4 col-md-4 col-4">
                     <div class="logo-area text-center logo-xs-mrg">
-                        <a href="index.php"><img src="img/logo/1a.png" alt="logo" style="width: 250px;" /></a>
+                        <a href="index.php"><img src="img/logo/1b.jpg" alt="logo" style="width: 350px;" /></a>
                     </div>
                 </div>
-                <div class="col-lg-2 col-md-2 col-2">
+                <div class="col-lg-4 col-md-4 col-4">
                     <div class="logo-area text-center logo-xs-mrg">
-                        <a href="index.php"><img src="img/logo/1b.png" alt="logo" style="width: 250px;" /></a>
+                        <a href="index.php"><img src="img/logo/1c.jpg" alt="logo" style="width: 350px;" /></a>
                     </div>
                 </div>
 
-                <div class="col-lg-2 col-md-2 col-2">
-                    <div class="logo-area text-center logo-xs-mrg">
-                        <a href="index.php"><img src="img/logo/1d.png" alt="logo" style="width: 250px;" /></a>
-                    </div>
-                </div>
-
-                <div class="col-lg-2 col-md-2 col-2">
-                    <div class="logo-area text-center logo-xs-mrg">
-                        <a href="index.php"><img src="img/logo/1c.png" alt="logo" style="width: 250px;" /></a>
-                    </div>
-                </div>
             </div>
         </div>
     </div>

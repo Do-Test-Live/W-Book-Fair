@@ -4,10 +4,10 @@
     <div class="footer-mid ptb-50">
         <div class="container">
             <div class="row">
-                <div class="col-lg-8 col-md-12">
+                <div class="col-lg-12 col-md-12">
                     <div class="row">
                         <div class="col-12">
-                            <div class="single-footer br-2 xs-mb">
+                            <div class="single-footer xs-mb">
                                 <div class="footer-title mb-20">
                                     <h3>Disclaimer</h3>
                                 </div>
@@ -19,7 +19,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-12">
+                <!--<div class="col-lg-4 col-md-12">
                     <div class="single-footer mrg-sm">
                         <div class="footer-title mb-20">
                             <h3>STORE INFORMATION</h3>
@@ -33,7 +33,7 @@
                             <p><span>Email:</span> demo@example.com</p>
                         </div>
                     </div>
-                </div>
+                </div>-->
             </div>
         </div>
     </div>
@@ -42,16 +42,16 @@
     <div class="footer-bottom">
         <div class="container">
             <div class="row bt-2">
-                <div class="col-lg-6 col-md-6 col-12">
+                <div class="col-lg-12 col-md-6 col-12 text-center">
                     <div class="copy-right-area">
-                        <p>&copy; 2023 <strong> Hong Kong Pavilion </strong> Made with ❤️ by <a href="https://ngt-tech.io/" target="_blank"><strong>NGTTech</strong></a></p>
+                        <p>&copy; 2023 <strong> Hong Kong Pavilion </strong> Developed By <a href="https://ngt-tech.io/" target="_blank"><strong>NGTTech</strong></a></p>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-6 col-12">
+              <!--  <div class="col-lg-6 col-md-6 col-12">
                     <div class="payment-img text-end">
                         <a href="#"><img src="img/1.png" alt="payment" /></a>
                     </div>
-                </div>
+                </div>-->
             </div>
         </div>
     </div>
