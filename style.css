@@ -1244,19 +1244,18 @@ body {
 .slider-content a {
     background: #f07c29 none repeat scroll 0 0;
     border: 2px solid #d6681b;
-    border-radius: 4px;
+    border-radius: 20px;
     color: #fff;
     display: inline-block;
     font-size: 20px;
-    font-weight: 400;
     line-height: 34px;
     margin-top: 43px;
     padding: 10px 38px;
     text-transform: none;
     font-family: 'DM Sans', sans-serif;
-    font-weight: 400;
     text-decoration: none;
     box-shadow: 2px 2px 2px 2px #a8c0ba;
+    font-weight: 700;
 }
 
 .slider-content a:hover {
@@ -7812,4 +7811,21 @@ p.lost-password a:hover {
 }
 .app-input-area button[type=submit]:hover svg {
     fill: #f7b633;
+}
+.exhibit_name{
+    color: #000;
+    font-size: 1.5rem;
+}
+.sticky {
+    position: sticky;
+    top: 0;
+}
+
+@media only screen and (max-width: 992px) {
+    .exhibit_name{
+        font-size: 1rem;
+    }.sticky {
+        position: sticky;
+        top: 0;
+    }
 }

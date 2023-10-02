@@ -66,7 +66,7 @@ $page = 'exhibits';
                                             </div>
                                         </div>
                                         <div class="product-details text-center">
-                                            <h3 class="mt-3"><a href="exhibits_details.php" style="color: #000; margin-top: 20px">Exhibit Name</a></h3>
+                                            <h3 class="mt-3"><a href="exhibits_details.php" class="exhibit_name">Exhibit Name</a></h3>
                                         </div>
                                     </div>
                                     <!-- single-product-end -->
@@ -84,7 +84,7 @@ $page = 'exhibits';
                                             </div>
                                         </div>
                                         <div class="product-details text-center">
-                                            <h3 class="mt-3"><a href="exhibits_details.php" style="color: #000;">Exhibit Name</a></h3>
+                                            <h3 class="mt-3"><a href="exhibits_details.php" class="exhibit_name">Exhibit Name</a></h3>
                                         </div>
                                     </div>
                                     <!-- single-product-end -->
@@ -102,7 +102,7 @@ $page = 'exhibits';
                                             </div>
                                         </div>
                                         <div class="product-details text-center">
-                                            <h3 class="mt-3"><a href="exhibits_details.php" style="color: #000;">Exhibit Name</a></h3>
+                                            <h3 class="mt-3"><a href="exhibits_details.php" class="exhibit_name">Exhibit Name</a></h3>
                                         </div>
                                     </div>
                                     <!-- single-product-end -->
@@ -120,7 +120,7 @@ $page = 'exhibits';
                                             </div>
                                         </div>
                                         <div class="product-details text-center">
-                                            <h3 class="mt-3"><a href="exhibits_details.php" style="color: #000;">Exhibit Name</a></h3>
+                                            <h3 class="mt-3"><a href="exhibits_details.php" class="exhibit_name">Exhibit Name</a></h3>
                                         </div>
                                     </div>
                                     <!-- single-product-end -->
@@ -138,7 +138,7 @@ $page = 'exhibits';
                                             </div>
                                         </div>
                                         <div class="product-details text-center">
-                                            <h3 class="mt-3"><a href="exhibits_details.php" style="color: #000;">Exhibit Name</a></h3>
+                                            <h3 class="mt-3"><a href="exhibits_details.php" class="exhibit_name">Exhibit Name</a></h3>
                                         </div>
                                     </div>
                                     <!-- single-product-end -->
@@ -156,7 +156,7 @@ $page = 'exhibits';
                                             </div>
                                         </div>
                                         <div class="product-details text-center">
-                                            <h3 class="mt-3"><a href="exhibits_details.php" style="color: #000;">Exhibit Name</a></h3>
+                                            <h3 class="mt-3"><a href="exhibits_details.php" class="exhibit_name">Exhibit Name</a></h3>
                                         </div>
                                     </div>
                                     <!-- single-product-end -->
@@ -195,6 +195,17 @@ $page = 'exhibits';
 
 <!-- all js here -->
 <?php include('include/js.php'); ?>
+
+<script>
+    window.addEventListener("scroll", function() {
+        var mobileMenu = document.querySelector(".mobile-menu-area");
+        if (window.scrollY > 0) {
+            mobileMenu.classList.add("sticky");
+        } else {
+            mobileMenu.classList.remove("sticky");
+        }
+    });
+</script>
 
 </body>
 
