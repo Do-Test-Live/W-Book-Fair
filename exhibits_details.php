@@ -84,14 +84,14 @@ $page = 'exhibits';
                                             with a man who chooses to enjoy a pleasure that has no annoying
                                             consequences, or one who avoids a pain that produces no resultant
                                             pleasure?</p>
-                                        <div class="row slider-content mx-auto">
+                                        <div class="row slider-content text-center">
                                             <div class="col-lg-4 col-md-4 col-6">
                                                 <a href="#">Voice</a>
                                             </div>
                                             <div class="col-lg-4 col-md-4 col-6">
                                                 <a href="#">Stop</a>
                                             </div>
-                                            <div class="col-lg-4 col-md-4 col-6">
+                                            <div class="col-lg-4 col-md-4 col-12">
                                                 <a href="#">Contact Us</a>
                                             </div>
                                         </div>
@@ -111,18 +111,25 @@ $page = 'exhibits';
                     </ul>
                     <div class="tab-content">
                         <div class="tab-pane fade active show" id="Details" role="tabpanel">
-                            <div class="valu" style="line-height: 40px;">
-                                <ul>
-                                    <li><i class="fa fa-circle"></i>Exhibit Type : <span style="font-weight: normal">  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></li>
-                                    <li><i class="fa fa-circle"></i>Exhibit Category : <span style="font-weight: normal"> Lorem ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></li>
-                                    <li><i class="fa fa-circle"></i>Contact Name : <span style="font-weight: normal"> Lorem ipsum </span></li>
-                                    <li><i class="fa fa-circle"></i>Title :  <span style="font-weight: normal"> Lorem ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></li>
-                                    <li><i class="fa fa-circle"></i>Contact Email : <span style="font-weight: normal"> example@gmail.com</span></li>
-                                    <li><i class="fa fa-circle"></i>Contact Phone : <span style="font-weight: normal"> 0000000000</span></li>
-                                    <li><i class="fa fa-circle"></i>Contact Fax : <span style="font-weight: normal"> 00000000</span></li>
-                                    <li><i class="fa fa-circle"></i>Contact Website : <span style="font-weight: normal"> xxxxxxxxx</span></li>
-                                    <li><i class="fa fa-circle"></i>Contact Address : <span style="font-weight: normal"> Lorem ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></li>
-                                </ul>
+                            <div class="valu">
+                                <h4>Exhibit Type</h4>
+                                <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                <h4 class="mt-5">Exhibit Category</h4>
+                                <p>Lorem ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                <h4 class="mt-5">Contact Name</h4>
+                                <p>Lorem ipsum</p>
+                                <h4 class="mt-5">Title</h4>
+                                <p>Lorem ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                <h4 class="mt-5"><span uk-icon="icon: mail; ratio:1.5"></span> Contact Email</h4>
+                                <p><a href="mailto:example@gmail.com" style="color: #333333;">example@gmail.com</a></p>
+                                <h4 class="mt-5"><span uk-icon="icon: receiver; ratio:1.5"></span> Contact Number</h4>
+                                <p>0000000000</p>
+                                <h4 class="mt-5"><span uk-icon="icon: print; ratio:1.5"></span> Fax</h4>
+                                <p>00000000</p>
+                                <h4 class="mt-5"><span uk-icon="icon: location; ratio:1.5"></span> Company Address</h4>
+                                <p>1/F Tung Chong Factory Building, 653-659 King's Rd North Point, Hong Kong</p>
+                                <h4 class="mt-5"><span uk-icon="icon: world; ratio:1.5"></span> Company Website</h4>
+                                <p><a href="#" style="color: #333333;">www.sheckwahtong.com</a></p>
                                 <p style="padding: 5px;">Share On:</p>
                                 <div class="product-addto-links">
                                     <a href="#"><i class="fa fa-facebook"></i></a>
