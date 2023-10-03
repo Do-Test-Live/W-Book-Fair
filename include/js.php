@@ -30,8 +30,8 @@
 
 <script>
         function openNav() {
-        document.getElementById("mySidenav").style.width = "300px";
-        document.getElementById("main").style.marginRight = "300px";
+        document.getElementById("mySidenav").style.width = "400px";
+        document.getElementById("main").style.marginRight = "400px";
     }
 
         function closeNav() {
@@ -44,12 +44,29 @@
     }
 
         function openCat() {
-            document.getElementById("category").style.width = "300px";
-            document.getElementById("main").style.marginLeft = "300px";
+            document.getElementById("category").style.width = "400px";
+            document.getElementById("main").style.marginLeft = "400px";
         }
 
         function closeCat() {
             document.getElementById("category").style.width = "0";
             document.getElementById("main").style.marginLeft= "0";
         }
+</script>
+
+<script>
+    $(document).ready(function () {
+        var menu = $(".mobile-menu-area");
+        var menuPosition = menu.offset().top;
+
+        $(window).scroll(function () {
+            if ($(window).scrollTop() >= menuPosition) {
+                menu.addClass("sticky-menu");
+                $("body").addClass("content-below-sticky");
+            } else {
+                menu.removeClass("sticky-menu");
+                $("body").removeClass("content-below-sticky");
+            }
+        });
+    });
 </script>

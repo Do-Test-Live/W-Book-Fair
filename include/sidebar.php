@@ -2,7 +2,7 @@
 
 <div id="mySidenav" class="sidenav">
     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-    <div id="chat-list">
+    <!--<div id="chat-list">
         <div class="row">
             <div class="col-12 text-center">
                 <span uk-icon="icon: comments; ratio: 2">
@@ -80,8 +80,8 @@
                 <span class="date-time">27/06/2023 04:50pm</span>
             </div>
         </div>
-    </div>
-    <div id="chat-details" style="display: none;">
+    </div>-->
+    <div id="chat-details">
         <div class="app-wrapper">
             <div class="app-header">
                 <h2>User 1</h2>

@@ -7670,7 +7670,7 @@ p.lost-password a:hover {
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
-    z-index: 999;
+    z-index: 99999;
 }
 .sidenav .closebtn {
     position: absolute;
@@ -7816,9 +7816,20 @@ p.lost-password a:hover {
     color: #000;
     font-size: 1.5rem;
 }
-.sticky {
-    position: sticky;
+/* Define a CSS class for the sticky menu */
+.sticky-menu {
+    position: fixed;
     top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #fff; /* You can set the background color you prefer */
+    z-index: 1000; /* Set a high z-index to ensure it's on top of other elements */
+}
+
+/* Add padding to the content below the sticky menu to prevent it from being hidden */
+/* Adjust the padding value according to the height of your menu */
+.content-below-sticky {
+    padding-top: 70px; /* Adjust this value as needed */
 }
 
 @media only screen and (max-width: 992px) {
