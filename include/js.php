@@ -30,8 +30,17 @@
 
 <script>
         function openNav() {
-        document.getElementById("mySidenav").style.width = "400px";
-        document.getElementById("main").style.marginRight = "400px";
+            function isMobileDevice() {
+                return (typeof window.orientation !== "undefined") || (navigator.userAgent.indexOf('Mobi') !== -1);
+            }
+
+            if (isMobileDevice()) {
+                document.getElementById("mySidenav").style.width = "100%";
+                document.getElementById("main").style.marginRight = "100%";
+            } else {
+                document.getElementById("mySidenav").style.width = "450px";
+                document.getElementById("main").style.marginRight = "450px";
+            }
     }
 
         function closeNav() {

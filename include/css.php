@@ -20,6 +20,7 @@
 <!-- chosen.min.css-->
 <link rel="stylesheet" href="css/chosen.min.css">
 
+
 <link rel="stylesheet" href="uikit/css/uikit.min.css">
 <!-- style css -->
 <link rel="stylesheet" href="style.css">
@@ -32,3 +33,4 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,200;9..40,400&display=swap" rel="stylesheet">
+
